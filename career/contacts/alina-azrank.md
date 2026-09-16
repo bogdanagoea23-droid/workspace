@@ -46,21 +46,21 @@ Produse: FLOW și RESTORE (health / wellness)
 
 ## FOLLOW UP de trimis
 
-Fără pitch și fără repetarea a ceea ce știe deja. Alina cunoaște în detaliu ce ai făcut la Mess Less, ți-a pus întrebările în februarie și i-ai răspuns punct cu punct. Un rezumat al competențelor ar suna ca și cum nu ar fi citit și i-ar readuce în minte și feedbackul ei critic despre volumul de conținut. Mesajul e doar o readucere politicoasă a întrebării în atenția ei.
+Fără pitch și fără repetarea a ceea ce știe deja. Alina cunoaște în detaliu ce ai făcut la Mess Less, ți-a pus întrebările în februarie și i-ai răspuns punct cu punct. Fără menționarea lui Tomer sau a summitului, nu e treaba ta dacă au vorbit sau nu. Ton cald, relaxat, fără presiune.
 
 **Subiect:** Following up
 
 Hi Alina,
 
-Just bringing my message from the start of the month back up, in case it slipped through.
+I hope you are doing well and that things have been good on your side.
 
-I hope the summit went well and that you and Tomer had a good catch up.
+I wanted to gently bring my message from the start of the month back up, in case it got lost in the inbox. No rush at all, I know how quickly things pile up.
 
-Whenever you have a moment, I would love to hear your thoughts on whether there might be a fit with your team, or with any of the brands you work with. Happy to jump on a short call at whatever time suits you.
+Whenever you have a moment, I would really love to hear your thoughts on whether there might be a fit with your team, or with any of the brands you work with. I would be very happy to jump on a short call at whatever time works best for you.
 
-Thank you, and I hope all is well on your side.
+Thank you so much, Alina, and I hope you have a lovely week ahead.
 
-Best,
+Warm regards,
 Bogdana
 
 ---
@@ -71,13 +71,15 @@ Bogdana
 
 Hi Alina,
 
-Floating this back to the top of your inbox in case it got buried.
+Hope you are doing well!
 
-Hope the summit went well and that you got to catch up with Tomer.
+Just gently floating my message from earlier this month back up, in case it got buried. No pressure at all.
 
 Would love to hear your thoughts whenever you have a moment.
 
-Best,
+Thank you, and have a lovely week.
+
+Warmly,
 Bogdana
 
 ---
@@ -85,7 +87,7 @@ Bogdana
 ## Note de strategie
 
 * Alina a răspuns de fiecare dată cu întârzieri mari (o lună, apoi cinci luni) și de două ori și a cerut scuze că a pierdut emailul. Nu e dezinteres, e inbox aglomerat. **Follow up ul e complet justificat și nu riști să pari insistentă.**
-* Punctul de contact cald e **Tomer**. Dacă Alina nu răspunde nici la acest follow up, pasul următor natural e să îl rogi pe Tomer să pună o vorbă bună direct.
+* Tomer nu se menționează în email. Rămâne totuși o opțiune de rezervă dacă vrei vreodată să o folosești, dar nu apare în mesaj.
 * **Nu repeta ce știe deja.** Alina a primit în februarie răspunsul detaliat despre tool-uri, cifre și proces. Detaliile din secțiunea de mai sus sunt pentru tine, pentru interviuri sau pentru un eventual call cu ea, nu pentru email.
 * Feedbackul ei din martie (volum de conținut insuficient) e mai bine să nu fie readus tu în discuție. Dacă îl aduce ea, ai răspunsul pregătit.
 * Dacă nu răspunde nici de data asta, lasă subiectul liniștit aproximativ o lună și revino cu ceva de valoare, nu cu un alt follow up gol. De exemplu o observație despre un brand de al ei sau un rezultat nou de al tău.
