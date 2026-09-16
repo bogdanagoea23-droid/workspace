@@ -44,52 +44,38 @@ Produse: FLOW și RESTORE (health / wellness)
 
 ---
 
-## FOLLOW UP de trimis (versiune completă)
+## FOLLOW UP de trimis
 
-**Subiect:** Following up on my note from earlier this month
+Fără pitch și fără repetarea a ceea ce știe deja. Alina cunoaște în detaliu ce ai făcut la Mess Less, ți-a pus întrebările în februarie și i-ai răspuns punct cu punct. Un rezumat al competențelor ar suna ca și cum nu ar fi citit și i-ar readuce în minte și feedbackul ei critic despre volumul de conținut. Mesajul e doar o readucere politicoasă a întrebării în atenția ei.
+
+**Subiect:** Following up
 
 Hi Alina,
 
-I hope the summit went well and that you had a good catch up with Tomer.
+Just bringing my message from the start of the month back up, in case it slipped through.
 
-I wanted to follow up on the message I sent at the start of the month. Now that my work with Mess Less has wrapped up, I have capacity for new projects, and I would still love to explore whether there is a fit with your team, either inside AZ Rank or on a project basis with one of the brands you work with.
+I hope the summit went well and that you and Tomer had a good catch up.
 
-To give you a clearer picture of what I would bring:
+Whenever you have a moment, I would love to hear your thoughts on whether there might be a fit with your team, or with any of the brands you work with. Happy to jump on a short call at whatever time suits you.
 
-I launched Mess Less on TikTok Shop from zero and built the affiliate program from the very first creator.
-
-I ran creator sourcing and outreach through uptk.io, filtering on niche and past TikTok Shop performance, which brought in 15 to 25 creator videos in a normal week and up to 89 in our strongest week in December.
-
-I managed sample approvals at around 20 per week, together with the brief, the content review, and the follow up that keeps creators posting more than once.
-
-I worked hands on with GMV Max, TikTok funded coupons, flash sales, BFCM, and the Hero Program, and used Sellico for rebate campaigns to build early momentum and shop score.
-
-I am comfortable owning the full loop, from sourcing and seeding through to content and performance tracking, and I can either plug into an existing process or build one from scratch.
-
-If there is something open now, or even something coming up later this year, I would be glad to jump on a short call. And if the timing is not right, that is completely fine, I would just appreciate knowing so I can stay in touch for the future.
-
-Thank you, Alina, and I hope things are going well on your side.
+Thank you, and I hope all is well on your side.
 
 Best,
-Bogdana Goea
-bogdana.goea23@gmail.com
-Bucharest, Romania
+Bogdana
 
 ---
 
-## FOLLOW UP de trimis (versiune scurtă, dacă preferi ceva mai lejer)
+## Variantă și mai scurtă
 
 **Subiect:** Quick follow up
 
 Hi Alina,
 
-Just floating my message from the start of the month back to the top of your inbox, in case it got buried.
+Floating this back to the top of your inbox in case it got buried.
 
-Now that Mess Less has wrapped up, I have capacity for new work, and I would still love to hear whether there might be a fit with your team or with one of the brands you work with. TikTok Shop launches, creator outreach, and affiliate management are what I do best, and I am happy to share numbers and examples from the Mess Less program if that is useful.
+Hope the summit went well and that you got to catch up with Tomer.
 
-Would a short call in the next week or two work for you?
-
-Hope the summit went well and that you got a good catch up with Tomer.
+Would love to hear your thoughts whenever you have a moment.
 
 Best,
 Bogdana
@@ -100,5 +86,6 @@ Bogdana
 
 * Alina a răspuns de fiecare dată cu întârzieri mari (o lună, apoi cinci luni) și de două ori și a cerut scuze că a pierdut emailul. Nu e dezinteres, e inbox aglomerat. **Follow up ul e complet justificat și nu riști să pari insistentă.**
 * Punctul de contact cald e **Tomer**. Dacă Alina nu răspunde nici la acest follow up, pasul următor natural e să îl rogi pe Tomer să pună o vorbă bună direct.
-* Feedbackul ei din martie (volum de conținut insuficient) e util de recunoscut dacă discuția merge mai departe. Arată că ai ascultat și ai acționat.
+* **Nu repeta ce știe deja.** Alina a primit în februarie răspunsul detaliat despre tool-uri, cifre și proces. Detaliile din secțiunea de mai sus sunt pentru tine, pentru interviuri sau pentru un eventual call cu ea, nu pentru email.
+* Feedbackul ei din martie (volum de conținut insuficient) e mai bine să nu fie readus tu în discuție. Dacă îl aduce ea, ai răspunsul pregătit.
 * Dacă nu răspunde nici de data asta, lasă subiectul liniștit aproximativ o lună și revino cu ceva de valoare, nu cu un alt follow up gol. De exemplu o observație despre un brand de al ei sau un rezultat nou de al tău.
