@@ -46,19 +46,19 @@ Produse: FLOW și RESTORE (health / wellness)
 
 ## FOLLOW UP de trimis
 
-Fără pitch și fără repetarea a ceea ce știe deja. Alina cunoaște în detaliu ce ai făcut la Mess Less, ți-a pus întrebările în februarie și i-ai răspuns punct cu punct. Fără menționarea lui Tomer sau a summitului, nu e treaba ta dacă au vorbit sau nu. Ton cald, relaxat, fără presiune.
+Fără pitch și fără repetarea a ceea ce știe deja. Fără menționarea lui Tomer sau a summitului. Ton cald, modest, fără presiune, cu o ieșire ușoară pentru ea dacă nu are nimic disponibil.
 
 **Subiect:** Following up
 
 Hi Alina,
 
-I hope you are doing well and that things have been good on your side.
+I hope you are doing well.
 
-I wanted to gently bring my message from the start of the month back up, in case it got lost in the inbox. No rush at all, I know how quickly things pile up.
+I know how busy things get, so I hope you do not mind me bringing my message from the start of the month back up, just in case it got lost along the way.
 
-Whenever you have a moment, I would really love to hear your thoughts on whether there might be a fit with your team, or with any of the brands you work with. I would be very happy to jump on a short call at whatever time works best for you.
+If there is nothing on your side at the moment, I completely understand. But if anything ever comes up where you think I could be useful, whether within your team or with one of the brands you work with, I would be very grateful for the chance to talk.
 
-Thank you so much, Alina, and I hope you have a lovely week ahead.
+Either way, thank you for your time, and I hope things are going well for you.
 
 Warm regards,
 Bogdana
@@ -71,13 +71,13 @@ Bogdana
 
 Hi Alina,
 
-Hope you are doing well!
+I hope you are doing well.
 
-Just gently floating my message from earlier this month back up, in case it got buried. No pressure at all.
+Just gently bringing my earlier message back up in case it got buried. I know your inbox is a busy one.
 
-Would love to hear your thoughts whenever you have a moment.
+If nothing fits right now, I completely understand. And if anything does come up where you think I could help, I would be glad to hear from you.
 
-Thank you, and have a lovely week.
+Thank you either way.
 
 Warmly,
 Bogdana
