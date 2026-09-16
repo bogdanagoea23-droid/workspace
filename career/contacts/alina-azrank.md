@@ -46,7 +46,7 @@ Produse: FLOW și RESTORE (health / wellness)
 
 ## FOLLOW UP de trimis
 
-Fără pitch și fără repetarea a ceea ce știe deja. Fără menționarea lui Tomer sau a summitului. Ton cald, modest, fără presiune, cu o ieșire ușoară pentru ea dacă nu are nimic disponibil.
+Fără pitch și fără repetarea a ceea ce știe deja. Fără Tomer și fără summit. Ton cald și modest, dar se deschide cu dorința reală, nu cu scuze. Ieșirea elegantă pentru ea rămâne, dar la final, unde nu slăbește mesajul.
 
 **Subiect:** Following up
 
@@ -56,9 +56,11 @@ I hope you are doing well.
 
 I know how busy things get, so I hope you do not mind me bringing my message from the start of the month back up, just in case it got lost along the way.
 
-If there is nothing on your side at the moment, I completely understand. But if anything ever comes up where you think I could be useful, whether within your team or with one of the brands you work with, I would be very grateful for the chance to talk.
+I am actively looking for my next role at the moment, and working with you, or with one of the brands you work with, is genuinely something I would love. I really enjoyed our exchanges earlier this year, and I would be grateful for any chance to be part of what you are building.
 
-Either way, thank you for your time, and I hope things are going well for you.
+If you have a few minutes for a short call, I am happy to fit around whatever time works best for you. And if nothing is open right now, I would still love to stay in touch for the future.
+
+Thank you so much, Alina.
 
 Warm regards,
 Bogdana
@@ -73,11 +75,11 @@ Hi Alina,
 
 I hope you are doing well.
 
-Just gently bringing my earlier message back up in case it got buried. I know your inbox is a busy one.
+Just gently bringing my earlier message back up in case it got buried.
 
-If nothing fits right now, I completely understand. And if anything does come up where you think I could help, I would be glad to hear from you.
+I am looking for my next role at the moment, and working with you or with one of the brands you work with is something I would genuinely love. If you have a few minutes for a short call, I am happy to fit around your schedule.
 
-Thank you either way.
+Thank you so much, and I hope to hear from you soon.
 
 Warmly,
 Bogdana
