@@ -12,12 +12,12 @@
 | Nume | Bogdana Goea |
 | Adresă | București, 010464, România |
 | Telefon | +40 725 272 933 |
-| Email principal (CV oficial) | bogdana.goea23@gmail.com |
-| Email secundar (versiuni vechi CV) | bogdanaaag@gmail.com |
+| **Email (singurul de folosit)** | **bogdana.goea23@gmail.com** |
+| Email vechi, nu se mai folosește | bogdanaaag@gmail.com |
 | Fus orar | România, GMT+2 (GMT+3 vara) |
 | Disponibilitate pentru call-uri | 10:00 – 23:00 ora României |
 
-**De verificat:** ce email vrei folosit de acum înainte. CV-ul oficial are `bogdana.goea23@gmail.com`, variantele mai vechi aveau `bogdanaaag@gmail.com`.
+**Confirmat de Bogdana:** se folosește `bogdana.goea23@gmail.com` peste tot, în CV, în aplicări și în emailuri. `bogdanaaag@gmail.com` apare doar în versiuni vechi și nu se mai folosește. `bogdana@jointopdog.com` era adresa de lucru de la Top Dog și nu mai e activă.
 
 ---
 
@@ -269,7 +269,7 @@ Cele două documente sursă au date diferite. Versiunea din acest fișier folose
 | Nordgreen | 2021-09 → 2022-03 | identic |
 | Email | bogdana.goea23@gmail.com | bogdanaaag@gmail.com |
 
-**Rămâne de decis:** care email se folosește de acum înainte.
+Emailul e decis: `bogdana.goea23@gmail.com`.
 
 ---
 
