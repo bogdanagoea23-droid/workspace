@@ -46,42 +46,44 @@ Produse: FLOW și RESTORE (health / wellness)
 
 ## FOLLOW UP de trimis
 
-Fără pitch și fără repetarea a ceea ce știe deja. Fără Tomer și fără summit. Ton cald și modest, dar se deschide cu dorința reală, nu cu scuze. Ieșirea elegantă pentru ea rămâne, dar la final, unde nu slăbește mesajul.
+In romana, fara diacritice, pentru ca Alina e romanca. Fara pitch si fara repetarea a ceea ce stie deja. Fara Tomer si fara summit. Ton cald si modest, dar se deschide cu dorinta reala.
 
-**Subiect:** Following up
+**Subiect:** Revin cu mesajul meu
 
-Hi Alina,
+Buna Alina,
 
-I hope you are doing well.
+Sper ca esti bine.
 
-I know how busy things get, so I hope you do not mind me bringing my message from the start of the month back up, just in case it got lost along the way.
+Stiu cat de aglomerat poate fi totul, asa ca sper sa nu te deranjeze ca revin la mesajul meu de la inceputul lunii, in caz ca s-a pierdut pe drum.
 
-I am actively looking for my next role at the moment, and working with you, or with one of the brands you work with, is genuinely something I would love. I really enjoyed our exchanges earlier this year, and I would be grateful for any chance to be part of what you are building.
+In momentul de fata caut activ urmatorul meu rol, si sa lucrez cu tine, sau cu unul dintre brandurile cu care lucrezi, este ceva ce mi-as dori foarte mult. Am apreciat mult indrumarile si sfaturile tale, si chiar cred ca am putea fi o potrivire foarte buna.
 
-If you have a few minutes for a short call, I am happy to fit around whatever time works best for you. And if nothing is open right now, I would still love to stay in touch for the future.
+Daca ai cateva minute pentru un call scurt, ma adaptez cu placere la ora care iti convine tie cel mai bine. Iar daca momentan nu e nimic deschis, mi-ar face oricum placere sa tinem legatura pentru viitor.
 
-Thank you so much, Alina.
+Iti multumesc mult, Alina.
 
-Warm regards,
+Cu drag,
 Bogdana
 
 ---
 
-## Variantă și mai scurtă
+## Varianta si mai scurta
 
-**Subiect:** Quick follow up
+**Subiect:** Revin cu un gand
 
-Hi Alina,
+Buna Alina,
 
-I hope you are doing well.
+Sper ca esti bine.
 
-Just gently bringing my earlier message back up in case it got buried.
+Revin la mesajul meu de mai devreme, in caz ca s-a pierdut prin inbox.
 
-I am looking for my next role at the moment, and working with you or with one of the brands you work with is something I would genuinely love. If you have a few minutes for a short call, I am happy to fit around your schedule.
+Caut acum urmatorul meu rol, si sa lucrez cu tine sau cu unul dintre brandurile cu care lucrezi este ceva ce mi-as dori mult. Am apreciat indrumarile si sfaturile tale, si cred sincer ca am putea fi o potrivire foarte buna.
 
-Thank you so much, and I hope to hear from you soon.
+Daca ai cateva minute pentru un call scurt, ma adaptez la programul tau.
 
-Warmly,
+Iti multumesc mult si sper sa ne auzim curand.
+
+Cu drag,
 Bogdana
 
 ---
@@ -89,7 +91,8 @@ Bogdana
 ## Note de strategie
 
 * Alina a răspuns de fiecare dată cu întârzieri mari (o lună, apoi cinci luni) și de două ori și a cerut scuze că a pierdut emailul. Nu e dezinteres, e inbox aglomerat. **Follow up ul e complet justificat și nu riști să pari insistentă.**
-* Tomer nu se menționează în email. Rămâne totuși o opțiune de rezervă dacă vrei vreodată să o folosești, dar nu apare în mesaj.
+* Tomer nu se mentioneaza in email.
+* **Atentie la limba pe thread.** Toata corespondenta anterioara a fost in engleza, iar Tomer era in copie. Daca trimiti in romana pe acelasi thread, el nu va intelege. Cel mai curat e sa trimiti un email nou, doar catre Alina, nu reply pe firul vechi.
 * **Nu repeta ce știe deja.** Alina a primit în februarie răspunsul detaliat despre tool-uri, cifre și proces. Detaliile din secțiunea de mai sus sunt pentru tine, pentru interviuri sau pentru un eventual call cu ea, nu pentru email.
 * Feedbackul ei din martie (volum de conținut insuficient) e mai bine să nu fie readus tu în discuție. Dacă îl aduce ea, ai răspunsul pregătit.
 * Dacă nu răspunde nici de data asta, lasă subiectul liniștit aproximativ o lună și revino cu ceva de valoare, nu cu un alt follow up gol. De exemplu o observație despre un brand de al ei sau un rezultat nou de al tău.
