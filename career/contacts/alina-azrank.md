@@ -56,7 +56,7 @@ Sper ca esti bine.
 
 Stiu cat de aglomerat poate fi totul, asa ca sper sa nu te deranjeze ca revin la mesajul meu de la inceputul lunii, in caz ca s-a pierdut pe drum.
 
-In momentul de fata caut activ urmatorul meu rol, si sa lucrez cu tine, sau cu unul dintre brandurile cu care lucrezi, este ceva ce mi-as dori foarte mult. Am apreciat mult indrumarile si sfaturile tale, si chiar cred ca am putea fi o potrivire foarte buna.
+In momentul de fata caut activ urmatorul meu rol, si sa lucrez cu tine, sau cu unul dintre brandurile cu care lucrezi, este ceva ce mi-as dori foarte mult. Am apreciat mult indrumarile si sfaturile tale, si chiar cred ca am putea face o echipa foarte buna.
 
 Daca ai cateva minute pentru un call scurt, ma adaptez cu placere la ora care iti convine tie cel mai bine. Iar daca momentan nu e nimic deschis, mi-ar face oricum placere sa tinem legatura pentru viitor.
 
@@ -77,7 +77,7 @@ Sper ca esti bine.
 
 Revin la mesajul meu de mai devreme, in caz ca s-a pierdut prin inbox.
 
-Caut acum urmatorul meu rol, si sa lucrez cu tine sau cu unul dintre brandurile cu care lucrezi este ceva ce mi-as dori mult. Am apreciat indrumarile si sfaturile tale, si cred sincer ca am putea fi o potrivire foarte buna.
+Caut acum urmatorul meu rol, si sa lucrez cu tine sau cu unul dintre brandurile cu care lucrezi este ceva ce mi-as dori mult. Am apreciat indrumarile si sfaturile tale, si cred sincer ca am putea face o echipa foarte buna.
 
 Daca ai cateva minute pentru un call scurt, ma adaptez la programul tau.
 
