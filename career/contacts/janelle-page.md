@@ -21,11 +21,13 @@ SARAL decide sa opreasca divizia de influencer marketing pentru a se concentra p
 **Octombrie 2024, introducerea catre Tomer**
 Janelle o intervieveaza pe Bogdana si ii spune ca are un client interesat sa lanseze pe TikTok Shop. Acel client era **Tomer**. Din acea introducere s-a nascut rolul de la **Top Dog / Mess Less**. Threadul de email "Intro" cu Bogdana, Tomer si Janelle e datat 24.10.2024.
 
-**2024 pana in 2026, perioada Mess Less**
-Janelle dezvolta brandul de suplimente Mess Less impreuna cu Tomer. Produsul a durat mult pana la lansare. Bogdana a lucrat pentru Tomer tot acest timp, a ajutat la lansarea pe TikTok Shop si a gestionat toata partea de TikTok Shop.
+**2024 pana in 2026, perioada Mess Less, proiect comun**
+Janelle nu a fost doar cea care a facut introducerea. Ea a fost **omul doi pe proiect, dupa Tomer**, si a dezvoltat brandul de suplimente Mess Less impreuna cu el. Produsul a durat mult pana la lansare. Bogdana a lucrat pentru Tomer tot acest timp, a ajutat la lansarea pe TikTok Shop si a gestionat toata partea de TikTok Shop.
+
+Cele doua nu au interactionat foarte mult direct, dar **au fost pe acelasi proiect o buna perioada**. Janelle a vazut de aproape cum lucreaza Bogdana. Asta inseamna ca in email nu i se explica nimic din ce a trait si ea, se vorbeste despre proiect ca despre o istorie comuna.
 
 **Finalul**
-Brandul nu a functionat. Janelle i-a spus lui Tomer la un moment dat sa opreasca produsul. Janelle a incetat colaborarea cu Tomer. Bogdana a mai lucrat cateva luni dupa aceea, dar brandul tot nu a mers, asa ca in final si Tomer a fost nevoit sa o lase sa plece, in **august 2026**.
+Brandul nu a functionat. Janelle si a pierdut interesul pentru proiect si i a spus lui Tomer ca ar trebui sa opreasca produsul, apoi a incetat colaborarea cu el. Tomer **nu a oprit produsul**, a mai incercat cateva luni si a pastrat o pe Bogdana in acest timp, dar fara succes. In final a fost nevoit sa o lase sa plece, in **august 2026**.
 
 **Situatia acum**
 Janelle si Tomer nu mai colaboreaza, de cateva luni. Janelle cunoaste foarte bine situatia si stie ca esecul brandului nu a tinut de Bogdana.
@@ -60,13 +62,13 @@ Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox a
 
 Hi Janelle,
 
-I hope you are doing well. It has been a while since we last spoke.
+I hope you are doing well. It has been a while since the Mess Less days.
 
-After you and I connected back in 2024, I went on to work with Tomer on Mess Less, running the TikTok Shop side of the brand. That collaboration recently came to an end, so I am now looking for my next role, and you were one of the first people I thought of.
+I wanted to let you know that my collaboration with Tomer recently came to an end. He kept trying for a while longer, but the brand never really took off, and we wrapped things up at the end of the summer. I am now looking for my next role, and you were one of the first people I thought of.
 
-First of all, thank you. That introduction turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
+First of all, thank you for that introduction back in 2024. Even though the brand did not get where we all hoped, I learned an enormous amount from the project, and I have always been grateful that you thought of me for it.
 
-TikTok Shop has been my main focus, and it is the part of this work I know best. I have handled it end to end for a few different brands, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
+TikTok Shop has been my main focus, and it is the part of this work I know best. Beyond Mess Less I have handled it end to end for other brands as well, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
 
 Influencer marketing more broadly is where I come from though, so creator programs, partnerships, community building, campaign management and the communication side of it are all familiar ground. I would be open to roles beyond TikTok Shop as well, so please do not feel limited to that when thinking of me.
 
@@ -88,13 +90,13 @@ bogdana.goea23@gmail.com
 
 Hi Janelle,
 
-I hope you are doing well. It has been a while since we last spoke.
+I hope you are doing well. It has been a while since the Mess Less days.
 
-After we connected back in 2024, I worked with Tomer on Mess Less, running the TikTok Shop side of the brand. That has recently wrapped up, so I am now looking for my next role, and you were one of the first people who came to mind.
+My collaboration with Tomer recently came to an end. He kept trying for a while longer, but the brand never really took off. I am now looking for my next role, and you were one of the first people who came to mind.
 
-Thank you for making that introduction. I learned an enormous amount from it, and I have always been grateful you thought of me.
+Thank you for that introduction back in 2024. Even though the brand did not get where we all hoped, I learned an enormous amount from the project, and I have always been grateful you thought of me.
 
-TikTok Shop has been my main focus and is the part of this work I know best. I have run it end to end for a few different brands, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing. Influencer marketing more broadly is where I come from though, so I would be open to roles beyond TikTok Shop as well.
+TikTok Shop has been my main focus and is the part of this work I know best. Beyond Mess Less I have run it end to end for other brands as well, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing. Influencer marketing more broadly is where I come from though, so I would be open to roles beyond TikTok Shop as well.
 
 I am writing to you in particular because I have always really liked the way you think and build, and I would love to work with you again in some form. And if there is nothing on your side, you know the people in this industry far better than I do, so if you ever come across a brand or a client where you think I could fit, I would be very grateful if you kept me in mind.
 
@@ -136,6 +138,8 @@ Luni este cea mai slaba zi, pentru ca toata lumea sapa prin ce s a adunat in wee
 * Nu se cere un job direct si nu se trimite CV ul din prima. Daca raspunde si se arata deschisa, atunci trimiti CV ul.
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
 * **Janelle isi aminteste de Bogdana, dar nu e o prioritate pentru ea.** De aceea emailul trebuie sa fie usor de rezolvat. Cererea a doua, cea de a o tine minte sau de a o pune in contact cu cineva, e plasata la final tocmai pentru ca e varianta care o costa treizeci de secunde. Oamenii raspund la ce e ieftin de facut.
+* **Nu i se explica proiectul.** Janelle a fost pe Mess Less alaturi de Bogdana, ca om doi dupa Tomer. Orice fraza care ii povesteste ce s a intamplat acolo suna fals. Se vorbeste ca despre o istorie comuna.
+* **Nu se comenteaza decizia ei de a pleca** si nu se spune nimic rau despre Tomer. Faptul ca el a mai incercat cateva luni se mentioneaza neutru, fara sa para ca i se da dreptate cuiva.
 * **Ancora de context din deschidere** reaseaza rapid cine esti si de unde va cunoasteti, fara sa sune ca o scuza. Nu se scrie niciodata "nu stiu daca va mai amintiti de mine", pentru ca te micsoreaza degeaba. Janelle te a intervievat personal si te a recomandat unui client, isi aminteste.
 * **Deschiderea catre alte roluri e intentionata.** Daca Janelle o incadreaza doar ca "omul de TikTok Shop", se gandeste la Bogdana doar cand are exact acel rol. Mentionarea experientei mai largi de influencer marketing ii da voie sa o potriveasca in mai multe locuri din portofoliul ei.
 * Formularea despre mai multe branduri e intentionat fara date. Daca Janelle intreaba direct cu ce branduri ai lucrat, raspunzi normal si deschis, nu e nimic de ascuns, dar nu tu deschizi subiectul cronologiei.
