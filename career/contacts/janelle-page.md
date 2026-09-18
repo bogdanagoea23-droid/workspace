@@ -51,16 +51,15 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect recomandat:** Hi Janelle, it's Bogdana
+**Subiect ales de Bogdana:** From Bogdana, a thank you and a question for you
 
-De ce acesta:
-* **Nu poate fi confundat cu o reclama.** Adresarea directa pe nume, urmata de prezentarea pe nume, este exact ce nu face niciodata o automatizare de marketing. Formule de tipul "A thank you from X" sau "Hello from X" sunt sabloane de newsletter si se ignora din reflex.
-* **24 de caractere, se vede intreg pe telefon.** Peste 40 de caractere subiectul se taie pe mobil.
-* **Se citeste ca un mesaj scris de mana**, nu ca o campanie.
+De ce functioneaza:
+* **"From Bogdana" este un nume de persoana, nu de brand**, deci nu risca sa fie luat drept reclama.
+* **Semnaleaza ca se asteapta un raspuns** prin "a question for you", ceea ce ajuta emailul sa nu se scufunde in inbox.
+* Are 48 de caractere si se taie pe mobil, dar ce ramane vizibil, "From Bogdana, a thank you and a...", se citeste in continuare perfect a om.
 
-Subiectul are o singura treaba, sa fie deschis. Semnalul ca se asteapta un raspuns se transmite din corpul emailului.
-
-*Alternative:*
+*Alternative discutate:*
+* *Hi Janelle, it's Bogdana* — 24 de caractere, cel mai puternic semnal de mesaj personal
 * *Bogdana, from the Mess Less days* — 32 de caractere, specifica in asa fel incat doar cineva care a fost acolo ar putea sa o scrie
 * *From Bogdana, about that introduction you made in 2024* — intriganta, dar se taie pe mobil
 
