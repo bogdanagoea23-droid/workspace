@@ -51,14 +51,19 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect:** From Bogdana, a thank you and a question for you
+**Subiect recomandat:** A thank you from Bogdana
 
-Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox aglomerat, iar "a question for you" semnaleaza ca se asteapta un raspuns, ceea ce ajuta emailul sa nu se scufunde. "From Bogdana" suna a om, nu a semnatura formala.
+De ce acesta:
+* **24 de caractere, se vede intreg pe telefon.** Variantele lungi de peste 40 de caractere se taie pe mobil.
+* **Este pozitiv, deci se deschide.** Nimeni nu amana un email in care este multumit, iar multumirea creeaza o curiozitate reala si onesta.
+* **Numele apare in subiect**, deci e usor de recunoscut la scanare si usor de cautat mai tarziu.
 
-*Alternative, daca preferi alt ton:*
+Compromisul: se pierde semnalul ca se asteapta un raspuns. Acela se transmite oricum din corpul emailului. Subiectul are o singura treaba, sa fie deschis.
+
+*Alternative:*
+* *From Bogdana, about that introduction you made in 2024* — cea mai intrigantă, dar se taie pe mobil
+* *From Bogdana, a thank you and a question for you* — semnalează că se așteaptă răspuns, dar are 48 de caractere
 * *From Bogdana, with a thank you and a hello*
-* *A thank you from Bogdana*
-* *From Bogdana, about that introduction you made in 2024*
 
 Hello dearest Janelle,
 
