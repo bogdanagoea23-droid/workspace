@@ -283,3 +283,4 @@ Textul integral extras din documentele originale se află în `career/sources/`:
 Contactele profesionale și threadurile de email se află în `career/contacts/`:
 
 * `alina-azrank.md` — Alina de la AZ Rank, thread complet plus follow up de trimis
+* `janelle-page.md` — Janelle Page, istoricul relatiei prin Dolce Folia si SARAL, introducerea catre Tomer, plus email de reach out
