@@ -51,14 +51,14 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect:** Bogdana Goea, a thank you and a question for you
+**Subiect:** From Bogdana, a thank you and a question for you
 
-Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox aglomerat, iar "a question for you" semnaleaza ca se asteapta un raspuns, ceea ce ajuta emailul sa nu se scufunde.
+Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox aglomerat, iar "a question for you" semnaleaza ca se asteapta un raspuns, ceea ce ajuta emailul sa nu se scufunde. "From Bogdana" suna a om, nu a semnatura formala.
 
 *Alternative, daca preferi alt ton:*
-* *Bogdana here, following up on the intro you made in 2024*
-* *Bogdana Goea, a thank you I owe you*
-* *From Bogdana, about that introduction you made*
+* *From Bogdana, with a thank you and a hello*
+* *A thank you from Bogdana*
+* *From Bogdana, about that introduction you made in 2024*
 
 Hello dearest Janelle,
 
@@ -84,7 +84,7 @@ bogdana.goea23@gmail.com
 
 ## Varianta mai scurta
 
-**Subiect:** Bogdana Goea, a thank you and a hello
+**Subiect:** From Bogdana, with a thank you
 
 Hello dearest Janelle,
 
