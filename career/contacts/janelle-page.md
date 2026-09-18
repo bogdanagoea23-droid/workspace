@@ -44,7 +44,9 @@ Janelle si Tomer nu mai colaboreaza, de cateva luni. Janelle cunoaste foarte bin
 
 ## EMAIL DE REACH OUT
 
-In engleza, pentru ca Janelle e americanca. Cald, recunoscator, fara pitch de competente, fara justificari pentru esecul brandului.
+In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exagerari.
+
+Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
 **Subiect:** Catching up, and a thank you
 
@@ -52,15 +54,17 @@ Hi Janelle,
 
 I hope you are doing well.
 
-I wanted to reach out and let you know that my collaboration with Tomer and Mess Less recently came to an end. I am now actively looking for my next role, and you were one of the first people I thought of.
+I wanted to reach out and let you know that my collaboration with Tomer and Mess Less recently came to an end. I am now looking for my next role, and you were one of the first people I thought of.
 
-First of all, thank you. The introduction you made back in 2024 turned into almost two years of work I learned an enormous amount from, from taking a brand through its first TikTok Shop launch to building the affiliate side from zero. I am genuinely grateful that you thought of me for it.
+First of all, thank you. The introduction you made back in 2024 turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
 
-The reason I am writing is simpler than a pitch. Every conversation we had left me with something to think about, and the way you look at building and growing brands is something I would love to learn more of, up close. If there is anything on your side, whether within your own work or with one of the brands you are growing, where you think I could be useful, I would really love to talk.
+TikTok Shop has become the part of this work I know best. I have handled it end to end for a few different brands, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
 
-And if there is nothing at the moment, I would still genuinely enjoy catching up whenever you have the time.
+I am writing to you in particular because I have always really liked the way you think and the way you build, and I would genuinely love to work with you again in some form. And if there is nothing directly on your side, you know this industry and the people in it far better than I do, so if you ever come across a brand or a client where you think I could be a good fit, I would be very grateful if you kept me in mind.
 
-Thank you, Janelle, and I hope everything is going well on your end.
+Either way, it would be lovely to catch up whenever you have the time.
+
+Thank you, Janelle.
 
 Warm regards,
 Bogdana Goea
@@ -78,9 +82,13 @@ I hope you are doing well.
 
 My collaboration with Tomer and Mess Less recently wrapped up, and I am now looking for my next role. You were one of the first people who came to mind.
 
-Thank you for the introduction you made back in 2024. It turned into almost two years of work I learned a great deal from, and I have always been grateful you thought of me.
+Thank you for the introduction you made back in 2024. I learned an enormous amount from it, and I have always been grateful you thought of me.
 
-I have learned something from every conversation we have had, and the way you build and grow brands is something I would love to be closer to. If there is anything on your side where you think I could be useful, I would love to talk. And if not right now, I would still really enjoy catching up.
+TikTok Shop is the part of this work I know best now. I have run it end to end for a few different brands, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing.
+
+I am writing to you in particular because I have always really liked the way you think and build, and I would love to work with you again in some form. And if there is nothing on your side, you know the people in this industry far better than I do, so if you ever come across a brand or a client where you think I could fit, I would be very grateful if you kept me in mind.
+
+Either way, it would be lovely to catch up.
 
 Thank you, Janelle.
 
@@ -95,4 +103,5 @@ bogdana.goea23@gmail.com
 * Cel mai puternic element al emailului e **multumirea**, nu cererea. Ea a facut o introducere care a functionat, si oamenilor le place sa afle ca gestul lor a contat.
 * Nu se cere un job direct si nu se trimite CV ul din prima. Daca raspunde si se arata deschisa, atunci trimiti CV ul.
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
+* Formularea despre mai multe branduri e intentionat fara date. Daca Janelle intreaba direct cu ce branduri ai lucrat, raspunzi normal si deschis, nu e nimic de ascuns, dar nu tu deschizi subiectul cronologiei.
 * Trimis de pe `bogdana.goea23@gmail.com`.
