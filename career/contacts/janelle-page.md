@@ -66,7 +66,9 @@ After you and I connected back in 2024, I went on to work with Tomer on Mess Les
 
 First of all, thank you. That introduction turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
 
-TikTok Shop has become the part of this work I know best. I have handled it end to end for a few different brands, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
+TikTok Shop has been my main focus, and it is the part of this work I know best. I have handled it end to end for a few different brands, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
+
+Influencer marketing more broadly is where I come from though, so creator programs, partnerships, community building, campaign management and the communication side of it are all familiar ground. I would be open to roles beyond TikTok Shop as well, so please do not feel limited to that when thinking of me.
 
 I am writing to you in particular because I have always really liked the way you think and the way you build, and I would genuinely love to work with you again in some form. And if there is nothing directly on your side, you know this industry and the people in it far better than I do, so if you ever come across a brand or a client where you think I could be a good fit, I would be very grateful if you kept me in mind.
 
@@ -92,7 +94,7 @@ After we connected back in 2024, I worked with Tomer on Mess Less, running the T
 
 Thank you for making that introduction. I learned an enormous amount from it, and I have always been grateful you thought of me.
 
-TikTok Shop is the part of this work I know best now. I have run it end to end for a few different brands, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing.
+TikTok Shop has been my main focus and is the part of this work I know best. I have run it end to end for a few different brands, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing. Influencer marketing more broadly is where I come from though, so I would be open to roles beyond TikTok Shop as well.
 
 I am writing to you in particular because I have always really liked the way you think and build, and I would love to work with you again in some form. And if there is nothing on your side, you know the people in this industry far better than I do, so if you ever come across a brand or a client where you think I could fit, I would be very grateful if you kept me in mind.
 
@@ -135,5 +137,6 @@ Luni este cea mai slaba zi, pentru ca toata lumea sapa prin ce s a adunat in wee
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
 * **Janelle isi aminteste de Bogdana, dar nu e o prioritate pentru ea.** De aceea emailul trebuie sa fie usor de rezolvat. Cererea a doua, cea de a o tine minte sau de a o pune in contact cu cineva, e plasata la final tocmai pentru ca e varianta care o costa treizeci de secunde. Oamenii raspund la ce e ieftin de facut.
 * **Ancora de context din deschidere** reaseaza rapid cine esti si de unde va cunoasteti, fara sa sune ca o scuza. Nu se scrie niciodata "nu stiu daca va mai amintiti de mine", pentru ca te micsoreaza degeaba. Janelle te a intervievat personal si te a recomandat unui client, isi aminteste.
+* **Deschiderea catre alte roluri e intentionata.** Daca Janelle o incadreaza doar ca "omul de TikTok Shop", se gandeste la Bogdana doar cand are exact acel rol. Mentionarea experientei mai largi de influencer marketing ii da voie sa o potriveasca in mai multe locuri din portofoliul ei.
 * Formularea despre mai multe branduri e intentionat fara date. Daca Janelle intreaba direct cu ce branduri ai lucrat, raspunzi normal si deschis, nu e nimic de ascuns, dar nu tu deschizi subiectul cronologiei.
 * Trimis de pe `bogdana.goea23@gmail.com`.
