@@ -105,11 +105,30 @@ bogdana.goea23@gmail.com
 
 ---
 
+## Cand se trimite
+
+**Marti sau miercuri, intre 8 si 10 dimineata ora ei.** Este fereastra cu cea mai buna rata de raspuns. Se evita vinerea, pentru ca mesajul sta tot weekendul si luni intra sub avalansa de emailuri.
+
+Conversie in ora Romaniei, valabila cat timp ambele tari sunt pe ora de vara:
+
+| Daca Janelle e pe coasta de est | Daca e pe coasta de vest |
+|---|---|
+| 16:00 ora Romaniei | 19:00 ora Romaniei |
+
+**Cum se afla fusul ei orar:** in invitatia Zoom din octombrie 2024, "Updated invitation: Bogdana Interview". Invitatiile de calendar contin fusul orar al organizatorului, iar ea a fost organizatorul.
+
+Indiciu partial: in septembrie 2024 ea a scris la 23:37 ora Romaniei, adica 16:37 pe coasta de est sau 13:37 pe coasta de vest. Ambele sunt ore de lucru normale, deci nu se poate decide doar din asta.
+
+Daca nu se poate astepta pana marti, a doua optiune e luni dimineata ora ei. Vinerea ramane ultima varianta.
+
+---
+
 ## Note de strategie
 
 * Cel mai puternic element al emailului e **multumirea**, nu cererea. Ea a facut o introducere care a functionat, si oamenilor le place sa afle ca gestul lor a contat.
 * Nu se cere un job direct si nu se trimite CV ul din prima. Daca raspunde si se arata deschisa, atunci trimiti CV ul.
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
+* **Janelle isi aminteste de Bogdana, dar nu e o prioritate pentru ea.** De aceea emailul trebuie sa fie usor de rezolvat. Cererea a doua, cea de a o tine minte sau de a o pune in contact cu cineva, e plasata la final tocmai pentru ca e varianta care o costa treizeci de secunde. Oamenii raspund la ce e ieftin de facut.
 * **Ancora de context din deschidere** reaseaza rapid cine esti si de unde va cunoasteti, fara sa sune ca o scuza. Nu se scrie niciodata "nu stiu daca va mai amintiti de mine", pentru ca te micsoreaza degeaba. Janelle te a intervievat personal si te a recomandat unui client, isi aminteste.
 * Formularea despre mai multe branduri e intentionat fara date. Daca Janelle intreaba direct cu ce branduri ai lucrat, raspunzi normal si deschis, nu e nimic de ascuns, dar nu tu deschizi subiectul cronologiei.
 * Trimis de pe `bogdana.goea23@gmail.com`.
