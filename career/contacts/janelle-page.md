@@ -59,11 +59,11 @@ Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox a
 
 Hi Janelle,
 
-I hope you are doing well.
+I hope you are doing well. It has been a while since we last spoke.
 
-I wanted to reach out and let you know that my collaboration with Tomer and Mess Less recently came to an end. I am now looking for my next role, and you were one of the first people I thought of.
+After you and I connected back in 2024, I went on to work with Tomer on Mess Less, running the TikTok Shop side of the brand. That collaboration recently came to an end, so I am now looking for my next role, and you were one of the first people I thought of.
 
-First of all, thank you. The introduction you made back in 2024 turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
+First of all, thank you. That introduction turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
 
 TikTok Shop has become the part of this work I know best. I have handled it end to end for a few different brands, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
 
@@ -85,11 +85,11 @@ bogdana.goea23@gmail.com
 
 Hi Janelle,
 
-I hope you are doing well.
+I hope you are doing well. It has been a while since we last spoke.
 
-My collaboration with Tomer and Mess Less recently wrapped up, and I am now looking for my next role. You were one of the first people who came to mind.
+After we connected back in 2024, I worked with Tomer on Mess Less, running the TikTok Shop side of the brand. That has recently wrapped up, so I am now looking for my next role, and you were one of the first people who came to mind.
 
-Thank you for the introduction you made back in 2024. I learned an enormous amount from it, and I have always been grateful you thought of me.
+Thank you for making that introduction. I learned an enormous amount from it, and I have always been grateful you thought of me.
 
 TikTok Shop is the part of this work I know best now. I have run it end to end for a few different brands, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing.
 
@@ -110,5 +110,6 @@ bogdana.goea23@gmail.com
 * Cel mai puternic element al emailului e **multumirea**, nu cererea. Ea a facut o introducere care a functionat, si oamenilor le place sa afle ca gestul lor a contat.
 * Nu se cere un job direct si nu se trimite CV ul din prima. Daca raspunde si se arata deschisa, atunci trimiti CV ul.
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
+* **Ancora de context din deschidere** reaseaza rapid cine esti si de unde va cunoasteti, fara sa sune ca o scuza. Nu se scrie niciodata "nu stiu daca va mai amintiti de mine", pentru ca te micsoreaza degeaba. Janelle te a intervievat personal si te a recomandat unui client, isi aminteste.
 * Formularea despre mai multe branduri e intentionat fara date. Daca Janelle intreaba direct cu ce branduri ai lucrat, raspunzi normal si deschis, nu e nimic de ascuns, dar nu tu deschizi subiectul cronologiei.
 * Trimis de pe `bogdana.goea23@gmail.com`.
