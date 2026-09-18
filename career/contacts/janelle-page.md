@@ -48,7 +48,13 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect:** Catching up, and a thank you
+**Subiect:** Your intro in 2024, and where it led
+
+*Alternative, daca preferi alt ton:*
+* *A thank you I owe you*
+* *That introduction you made, and what came of it*
+* *Bogdana here, with a thank you and a hello*
+
 
 Hi Janelle,
 
@@ -74,7 +80,7 @@ bogdana.goea23@gmail.com
 
 ## Varianta mai scurta
 
-**Subiect:** Thank you, and a hello
+**Subiect:** A thank you I owe you
 
 Hi Janelle,
 
