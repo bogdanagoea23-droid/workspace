@@ -51,19 +51,20 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect recomandat:** A thank you from Bogdana
+**Subiect recomandat:** Hi Janelle, it's Bogdana
 
 De ce acesta:
-* **24 de caractere, se vede intreg pe telefon.** Variantele lungi de peste 40 de caractere se taie pe mobil.
-* **Este pozitiv, deci se deschide.** Nimeni nu amana un email in care este multumit, iar multumirea creeaza o curiozitate reala si onesta.
-* **Numele apare in subiect**, deci e usor de recunoscut la scanare si usor de cautat mai tarziu.
+* **Nu poate fi confundat cu o reclama.** Adresarea directa pe nume, urmata de prezentarea pe nume, este exact ce nu face niciodata o automatizare de marketing. Formule de tipul "A thank you from X" sau "Hello from X" sunt sabloane de newsletter si se ignora din reflex.
+* **24 de caractere, se vede intreg pe telefon.** Peste 40 de caractere subiectul se taie pe mobil.
+* **Se citeste ca un mesaj scris de mana**, nu ca o campanie.
 
-Compromisul: se pierde semnalul ca se asteapta un raspuns. Acela se transmite oricum din corpul emailului. Subiectul are o singura treaba, sa fie deschis.
+Subiectul are o singura treaba, sa fie deschis. Semnalul ca se asteapta un raspuns se transmite din corpul emailului.
 
 *Alternative:*
-* *From Bogdana, about that introduction you made in 2024* — cea mai intrigantă, dar se taie pe mobil
-* *From Bogdana, a thank you and a question for you* — semnalează că se așteaptă răspuns, dar are 48 de caractere
-* *From Bogdana, with a thank you and a hello*
+* *Bogdana, from the Mess Less days* — 32 de caractere, specifica in asa fel incat doar cineva care a fost acolo ar putea sa o scrie
+* *From Bogdana, about that introduction you made in 2024* — intriganta, dar se taie pe mobil
+
+*De evitat:* orice formula de tipul "A thank you from Bogdana" sau "Hello from Bogdana". Sunt sabloane clasice de newsletter si risca sa fie luate drept reclama.
 
 Hello dearest Janelle,
 
