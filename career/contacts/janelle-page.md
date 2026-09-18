@@ -2,6 +2,7 @@
 
 **Rol:** e-commerce operator si brand builder in Statele Unite. Creste branduri si apoi le vinde. Gestioneaza mai multe branduri in paralel.
 **Semnatura ei in email:** "Be Good. Do Good."
+**Fus orar:** Mountain Time, Statele Unite
 **Relatia:** foarte importanta. Ea este persoana care i-a deschis Bogdanei usa catre Tomer si Top Dog.
 
 ---
@@ -107,19 +108,21 @@ bogdana.goea23@gmail.com
 
 ## Cand se trimite
 
-**Marti sau miercuri, intre 8 si 10 dimineata ora ei.** Este fereastra cu cea mai buna rata de raspuns. Se evita vinerea, pentru ca mesajul sta tot weekendul si luni intra sub avalansa de emailuri.
+**Fusul orar al lui Janelle: Mountain Time (US and Canada).** Confirmat din invitatia Zoom din 2024, care arata "Sep 30, 2024 02:30 PM Mountain Time". Se verifica singur, pentru ca 14:30 Mountain inseamna 23:30 ora Romaniei, exact ora pe care Bogdana o mentiona atunci intr un email.
 
-Conversie in ora Romaniei, valabila cat timp ambele tari sunt pe ora de vara:
+**Romania este cu 9 ore inaintea ei** cat timp ambele tari sunt pe ora de vara.
 
-| Daca Janelle e pe coasta de est | Daca e pe coasta de vest |
-|---|---|
-| 16:00 ora Romaniei | 19:00 ora Romaniei |
+**Fereastra de trimis: marti sau miercuri, intre 17:00 si 19:00 ora Romaniei**, adica intre 8 si 10 dimineata la ea. Ora optima este **18:00 ora Romaniei, adica 9 dimineata la ea**, cand si a deschis laptopul dar nu a intrat inca in sedinte.
 
-**Cum se afla fusul ei orar:** in invitatia Zoom din octombrie 2024, "Updated invitation: Bogdana Interview". Invitatiile de calendar contin fusul orar al organizatorului, iar ea a fost organizatorul.
+Se evita vinerea, pentru ca mesajul sta tot weekendul si luni intra sub avalansa de emailuri.
 
-Indiciu partial: in septembrie 2024 ea a scris la 23:37 ora Romaniei, adica 16:37 pe coasta de est sau 13:37 pe coasta de vest. Ambele sunt ore de lucru normale, deci nu se poate decide doar din asta.
+**Atentie la schimbarea orei:**
 
-Daca nu se poate astepta pana marti, a doua optiune e luni dimineata ora ei. Vinerea ramane ultima varianta.
+| Perioada | Diferenta | 9 dimineata la ea inseamna |
+|---|---|---|
+| Pana pe 25 octombrie | 9 ore | 18:00 ora Romaniei |
+| 25 octombrie pana pe 1 noiembrie | 8 ore | 17:00 ora Romaniei |
+| Dupa 1 noiembrie | 9 ore | 18:00 ora Romaniei |
 
 ---
 
