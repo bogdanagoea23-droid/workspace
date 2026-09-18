@@ -48,13 +48,14 @@ In engleza, pentru ca Janelle e americanca. Cald, recunoscator, simplu, fara exa
 
 Experienta pe mai multe branduri e formulata **fara reper de timp**, ca sa nu reiasa ca lucrai in paralel cu perioada Tomer. Se citeste ca experienta acumulata, nu ca un calendar.
 
-**Subiect:** Your intro in 2024, and where it led
+**Subiect:** Bogdana Goea, a thank you and a question for you
+
+Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox aglomerat, iar "a question for you" semnaleaza ca se asteapta un raspuns, ceea ce ajuta emailul sa nu se scufunde.
 
 *Alternative, daca preferi alt ton:*
-* *A thank you I owe you*
-* *That introduction you made, and what came of it*
-* *Bogdana here, with a thank you and a hello*
-
+* *Bogdana here, following up on the intro you made in 2024*
+* *Bogdana Goea, a thank you I owe you*
+* *From Bogdana, about that introduction you made*
 
 Hi Janelle,
 
@@ -80,7 +81,7 @@ bogdana.goea23@gmail.com
 
 ## Varianta mai scurta
 
-**Subiect:** A thank you I owe you
+**Subiect:** Bogdana Goea, a thank you and a hello
 
 Hi Janelle,
 
