@@ -60,13 +60,11 @@ Numele apare in subiect ca sa fie usor de gasit si de recunoscut intr un inbox a
 * *Bogdana Goea, a thank you I owe you*
 * *From Bogdana, about that introduction you made*
 
-Hi Janelle,
+Hello dearest Janelle,
 
-I hope you are doing well. It has been a while since the Mess Less days.
+I hope you are doing well. I wanted to reach out and let you know that my collaboration with Tomer and Mess Less recently came to an end. I am now looking for my next role, and you were one of the first people I thought of.
 
-I wanted to let you know that my collaboration with Tomer recently came to an end. He kept trying for a while longer, but the brand never really took off, and we wrapped things up at the end of the summer. I am now looking for my next role, and you were one of the first people I thought of.
-
-First of all, thank you for that introduction back in 2024. Even though the brand did not get where we all hoped, I learned an enormous amount from the project, and I have always been grateful that you thought of me for it.
+First of all, thank you. The introduction you made back in 2024 turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
 
 TikTok Shop has been my main focus, and it is the part of this work I know best. Beyond Mess Less I have handled it end to end for other brands as well, from getting a product live on the shop through to running the day to day: creator outreach and affiliate onboarding, sample approvals and seeding, campaigns and promos, content coordination and briefing, and keeping an eye on the numbers in Seller Center to see what is actually working.
 
@@ -88,13 +86,11 @@ bogdana.goea23@gmail.com
 
 **Subiect:** Bogdana Goea, a thank you and a hello
 
-Hi Janelle,
+Hello dearest Janelle,
 
-I hope you are doing well. It has been a while since the Mess Less days.
+I hope you are doing well. My collaboration with Tomer and Mess Less recently came to an end, and I am now looking for my next role. You were one of the first people I thought of.
 
-My collaboration with Tomer recently came to an end. He kept trying for a while longer, but the brand never really took off. I am now looking for my next role, and you were one of the first people who came to mind.
-
-Thank you for that introduction back in 2024. Even though the brand did not get where we all hoped, I learned an enormous amount from the project, and I have always been grateful you thought of me.
+Thank you for the introduction you made back in 2024. It turned into a project I learned an enormous amount from, and I have always been grateful that you thought of me for it.
 
 TikTok Shop has been my main focus and is the part of this work I know best. Beyond Mess Less I have run it end to end for other brands as well, from launching a product on the shop to handling the day to day: creator outreach, affiliate onboarding, samples and seeding, campaigns and promos, and tracking what is actually performing. Influencer marketing more broadly is where I come from though, so I would be open to roles beyond TikTok Shop as well.
 
@@ -138,7 +134,8 @@ Luni este cea mai slaba zi, pentru ca toata lumea sapa prin ce s a adunat in wee
 * Nu se cere un job direct si nu se trimite CV ul din prima. Daca raspunde si se arata deschisa, atunci trimiti CV ul.
 * Daca raspunde pozitiv dar fara ceva concret, intreab o daca stie pe cineva din reteaua ei care cauta pe zona de TikTok Shop. Ea traieste din retea si din branduri, e intrebarea naturala.
 * **Janelle isi aminteste de Bogdana, dar nu e o prioritate pentru ea.** De aceea emailul trebuie sa fie usor de rezolvat. Cererea a doua, cea de a o tine minte sau de a o pune in contact cu cineva, e plasata la final tocmai pentru ca e varianta care o costa treizeci de secunde. Oamenii raspund la ce e ieftin de facut.
-* **Nu i se explica proiectul.** Janelle a fost pe Mess Less alaturi de Bogdana, ca om doi dupa Tomer. Orice fraza care ii povesteste ce s a intamplat acolo suna fals. Se vorbeste ca despre o istorie comuna.
+* **Nu i se explica proiectul si nu se povesteste finalul.** Janelle a fost pe Mess Less alaturi de Bogdana, ca om doi dupa Tomer, si stie in mare ce s a intamplat. O fraza scurta despre incheierea colaborarii e suficienta, restul e balast.
+* **Deschiderea este cea aleasa de Bogdana**, inclusiv formula "Hello dearest Janelle". E vocea ei si relatia suporta caldura asta.
 * **Nu se comenteaza decizia ei de a pleca** si nu se spune nimic rau despre Tomer. Faptul ca el a mai incercat cateva luni se mentioneaza neutru, fara sa para ca i se da dreptate cuiva.
 * **Ancora de context din deschidere** reaseaza rapid cine esti si de unde va cunoasteti, fara sa sune ca o scuza. Nu se scrie niciodata "nu stiu daca va mai amintiti de mine", pentru ca te micsoreaza degeaba. Janelle te a intervievat personal si te a recomandat unui client, isi aminteste.
 * **Deschiderea catre alte roluri e intentionata.** Daca Janelle o incadreaza doar ca "omul de TikTok Shop", se gandeste la Bogdana doar cand are exact acel rol. Mentionarea experientei mai largi de influencer marketing ii da voie sa o potriveasca in mai multe locuri din portofoliul ei.
