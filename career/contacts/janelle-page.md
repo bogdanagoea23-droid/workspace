@@ -114,7 +114,9 @@ bogdana.goea23@gmail.com
 
 **Fereastra de trimis: marti sau miercuri, intre 17:00 si 19:00 ora Romaniei**, adica intre 8 si 10 dimineata la ea. Ora optima este **18:00 ora Romaniei, adica 9 dimineata la ea**, cand si a deschis laptopul dar nu a intrat inca in sedinte.
 
-Se evita vinerea, pentru ca mesajul sta tot weekendul si luni intra sub avalansa de emailuri.
+Luni este cea mai slaba zi, pentru ca toata lumea sapa prin ce s a adunat in weekend. Vineri dimineata la ea este de fapt o ora linistita si o varianta rezonabila, cu conditia sa se trimita in fereastra de 8 pana la 10 dimineata ora ei, nu mai tarziu.
+
+**Decizie luata pe 18 septembrie 2026:** emailul se trimite vineri, la 17:00 sau 18:00 ora Romaniei. Daca nu vine raspuns pana miercuri, se da un reply scurt de doua randuri pe acelasi thread, nu un email nou.
 
 **Atentie la schimbarea orei:**
 
