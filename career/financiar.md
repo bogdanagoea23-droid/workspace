@@ -21,9 +21,15 @@ cu clientul care primeste deja munca neplatita.
 Diferenta de ~480 EUR/luna nu justifica riscul de a strica relatia cu Alina.
 
 ### Calendar
+- **Octombrie 2026** — start efectiv la Alina (part-time, 1.100 EUR)
 - **Octombrie 2026** — conversatia cu Connor (cerere 1.000 EUR pentru scope-ul de TikTok Shop)
-- **Noiembrie 2026** — start efectiv Alina, prima factura
-- **Februarie 2027** — cerere full-time la Alina, formulata explicit **"2.000 EUR net in mana"**
+- **Noiembrie 2026** — prima factura catre Alina (pentru munca din octombrie)
+- **31 decembrie 2026** — ultima zi pentru facturile de cheltuieli deductibile
+- **Mijloc de decembrie 2026** — cerere full-time la Alina, formulata explicit **"2.000 EUR net in mana"**
+- **Ianuarie 2027** — start full-time
+
+Cele 3 luni de acomodare sunt **octombrie, noiembrie, decembrie 2026**. Munca incepe in
+octombrie, chiar daca prima factura pleaca in noiembrie.
 
 ### Capacitate
 Nu se poate full-time la Alina SI scope extins la Connor. Full-time = 40h/saptamana.
@@ -120,6 +126,37 @@ aduc ~810 EUR/luna in mana. Nu se declanseaza niciun prag nou.
 
 ---
 
+## Proiectii 2027
+
+Obiectivul declarat: **4.500 EUR/luna in mana**, ceea ce cere ~5.900 EUR/luna facturat.
+La venituri mari CAS si CASS ajung la plafon, deci procentul de taxa scade la ~24% in loc
+de ~33%.
+
+| Scenariu | Facturat/luna | In mana/luna |
+|---|---|---|
+| Connor 1.500 + Alina 1.100 (azi) | 2.600 EUR | ~1.737 EUR |
+| Connor 2.500 + Alina 1.100 (planul agreat) | 3.600 EUR | ~2.547 EUR |
+| Connor 2.500 + Alina 2.000 full-time | 4.500 EUR | ~3.300 EUR |
+| Connor 2.500 + Alina 2.925 full-time | 5.425 EUR | ~4.123 EUR |
+| **Tinta** | **~5.900 EUR** | **4.500 EUR** |
+
+Cei ~2.300 EUR/luna care lipsesc fata de planul agreat nu pot veni de la cei doi clienti
+actuali. Alina a pornit de la 900 USD si a spus ca 2.000 EUR full-time "face sens" — aia
+e banda ei. Connor la 2.500 EUR e deja o cerere de +67%.
+
+Sursa realista: **un al treilea client**, in 2027. Specializarea vandabila: TikTok Shop,
+zile de 2.000 USD GMV, produs in Hero Program — foarte puțini oameni din Romania pot
+spune asta.
+
+De reținut: **cifra de 4.500 EUR nu se comunica niciunuia dintre cei doi clienti.** E
+obiectiv personal, nu pozitie de negociere.
+
+### Atentie la capacitate
+Full-time la Alina (40h/saptamana) plus scope extins la Connor nu incap amandoua. Daca
+se promit ambele, una cedeaza.
+
+---
+
 ## Angajare vs PFA
 
 Net salarial = **58,5% din brut** (peste pragul minim). Cost angajator = brut x 1,0225 (CAM 2,25%).
@@ -173,7 +210,11 @@ chestionarului de rezidenta fiscala la plecarea din Romania.
 - [ ] **Octombrie** — contabilul: cat trebuie dedus ca sa se stea sub 48.600 lei in 2026;
       si daca era necesara o declaratie unica estimativa la pornirea facturarii in iulie 2026.
 - [ ] **Pana 31 decembrie 2026** — strans facturile de cheltuieli deductibile pe PFA.
-- [ ] **Februarie 2027** — cerere full-time la Alina, formulata "2.000 EUR net in mana".
+- [ ] **Mijloc de decembrie 2026** — cerere full-time la Alina, formulata "2.000 EUR net in mana".
+      Argumentul principal: pe PFA aceeasi suma in mana o costa pe ea 2.925 EUR/luna, in
+      timp ce angajarea o costa 3.500 EUR/luna. Economie de 575 EUR/luna pentru ea, 6.900
+      EUR/an, la acelasi cost pentru Bogdana. Costul pentru Bogdana: fara contract de munca,
+      deci fara hartia pentru Lioness si fara vechime.
 - [ ] **Deschis** — cerere de esalonare catre executor. Se depune in scris, pe mail sau
       prin posta, si poate fi facuta si de altcineva. Nu necesita nicio conversatie.
 - [ ] **25 mai 2027** — declaratia unica pentru veniturile din 2026 (~4.200 EUR, sau
