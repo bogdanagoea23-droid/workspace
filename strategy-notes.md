@@ -134,6 +134,16 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Planuri one-time:** 3 pe săptămână. Se trimit către clienți sau către potențiali clienți (ex. „Potential new customers”). Folosiri: anunț de flash sale, cupoane, lansări de produse, promovare LIVE.
 - Fiecare grup poate primi mesaj o singură dată pe săptămână. Limita se resetează luni, la 00:00 PT.
 - Mesajele se pot programa doar între 05:00 și 21:00.
+- Template-urile one-time sunt grupate pe 3 tab-uri: Drive sales (Share best-selling products, Announce new product launches, Promote LIVE, sales and campaigns), Encourage repeat purchases și Build loyalty. Poți porni și de la zero (Create from scratch).
+- Pe pagina Outreach vezi cota rămasă pe săptămână (ex. 3/3) și datele din ultimele 30 de zile: CRM GMV, CRM orders, Total recipients, Recipients read.
+- Atenție: cota și accesul la planuri pot fi modificate în funcție de Shop Performance Score.
+- Ce conține un plan:
+  - nume;
+  - segmentul căruia îi trimiți;
+  - momentul trimiterii (acum sau programat);
+  - mesajul, pe care îl scrii tu sau îl iei dintr-un template recomandat (titlu de maxim 70 de caractere, text de maxim 500);
+  - opțional: cupon, produse atașate, buton interactiv.
+- Mesajul ajunge la client în limba în care l-ai scris.
 
 **Affiliate outreach**
 - La target invites, Ervin recomandă loturi mari, de 10k–20k creatori, pentru că sunt mulți disponibili.
