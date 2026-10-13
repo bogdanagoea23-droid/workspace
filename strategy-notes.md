@@ -76,3 +76,48 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 5. La SKU-ul vechi se apasă **Remove Merged Product**. Atenție: se scoate doar cel vechi, astfel încât stocul rămâne pe SKU-ul nou.
 
 **Ce se pierde:** review-urile, istoricul și sample-urile trimise creatorilor pe SKU-ul vechi (nu mai contează). Practic, totul începe de la zero. Inventarul se păstrează.
+
+## 10. Lansare produs nou pe TikTok Shop (sfaturi Ervin / doc „TikTok Shop 2026”)
+**Preț și piață**
+- Peste ~$30 produsul se vinde greu pe TikTok; agențiile spun $30 maxim. Pentru audiență hispanică, chiar și asta poate fi scump.
+- Concurenții la produse similare (ex. tool bags) vând la ~$15–20 și au tracțiune.
+
+**Pașii de lansare**
+1. Comision mare pentru creatori: 25–30%.
+2. Câteva comenzi cu review-uri, apoi pornești GMV Max cât mai repede.
+3. Target invites prin UpTK / Cruva. Nu filtra creatori cu GMV foarte mare: nu acceptă dacă produsul nu are deja vânzări. Ideal ai ~$500 GMV înainte de primele ~1k invitații.
+4. Creatorii care au convertit înainte primesc target invite direct, pe nume.
+5. Ajustezi în funcție de rezultate.
+
+**Discounturi**
+- Fără discounturi foarte mari sau flash sales: trebuie să treacă 30 de zile ca să poți face un discount mai mic decât ultimul flash sale. Așa păstrezi marja (excepție: dacă urmărești spillover pe Amazon).
+
+**Pagina proprie de TikTok (conectată la shop)**
+- Merită un om creativ, care vine cu idei de prezentare a produsului. Nu trebuie following, nici pentru creator, nici pentru pagină.
+- Videoclipurile intră automat în GMV Max și nu plătești comision pe vânzările din ele.
+- Persoana care postează pentru noi poate face și LIVE din când în când; ajută mult.
+
+**GMV Max: optimizare continuă**
+- Crești bugetul (extra budget) pe videoclipurile care prind.
+- Oprești videoclipurile care cheltuie fără să vândă. Algoritmul împinge impresii și watch time chiar și fără conversii.
+- Ciclul: trimiți sample-uri → mai multe videoclipuri → buget mai mare pe ce convertește → repeți.
+- În UpTK poți filtra invitațiile pe creatori „LIVE only”.
+
+**Review-uri**
+- Pentru produse noi: review-urile prin link de produs sau de shop, nu prin link de video (altfel plătești comision degeaba).
+- Video-linkul ajută doar la conturile noi, ca să deblochezi mai multe invites.
+- Rankingul depinde de volumul de vânzări, nu de sursa clienților. Ervin nu a văzut diferențe între review-urile din video și cele din pagina de produs.
+- Număr orientativ: majoritatea produselor au pornit în jur de 40–50 de review-uri, dar variază mult (unele vând fără review-uri, altele nu vând deloc nici cu multe).
+
+**Review-uri negative și violations**
+- Claim-urile mari (ex. somn) au adus review-uri negative și violation. Rezolvarea a durat mult, prin support / Lark.
+- Clienții nemulțumiți: îi contactezi direct, oferi refund și îi rogi să-și reconsidere review-ul. Puțini răspund.
+- Appeal-ul ascunde review-ul de ceilalți utilizatori, dar acesta **tot contează** la Negative Review Rate.
+- Pentru a ieși din violation: mai multe comenzi → aștepți recalcularea → ajungi sub prag → trimiți un plan de remediere (produs + customer experience).
+- Negative Review Rate peste prag blochează campaniile de affiliate pe produse. Formula: comenzi cu 1–2 stele / comenzi livrate în 60 de zile. Scorul se vede în Account Health → Shop Performance Score → Analyze performance.
+
+**Probleme deschise la noi**
+- Categorii restricționate (gated) pentru cele mai multe produse relevante. Trebuie aflat cum se deblochează.
+- Avertisment „Possible incorrect categories” la Beauty & Personal Care → Men's Care → Razors. Trebuie verificată categoria recomandată.
+- Contul a fost restricționat septembrie–decembrie din cauza a 2 violations; a fost deblocat prin Lark. Recomandare: cont Lark + account manager.
+- Produse noi de dermaplaning urmează să intre în FBT. Pentru lansarea lor se aplică pașii de mai sus.
