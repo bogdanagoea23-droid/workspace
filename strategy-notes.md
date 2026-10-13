@@ -121,3 +121,19 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - Avertisment „Possible incorrect categories” la Beauty & Personal Care → Men's Care → Razors. Trebuie verificată categoria recomandată.
 - Contul a fost restricționat septembrie–decembrie din cauza a 2 violations; a fost deblocat prin Lark. Recomandare: cont Lark + account manager.
 - Produse noi de dermaplaning urmează să intre în FBT. Pentru lansarea lor se aplică pașii de mai sus.
+
+## 11. Customer service și CRM în TikTok Seller Center (din Loom-urile Retainia)
+**Chatbot (Customer messages → Automated replies → Chatbot)**
+- Program: Always-on (recomandat) sau doar în afara orelor de program.
+- Tipuri de întrebări la care poate răspunde: înainte de cumpărare, logistică, după cumpărare. În setup-ul arătat era bifată doar logistica.
+- Răspunsurile vin din Knowledge base, care trebuie completat.
+- Automated updates: mesaje automate de tip „Order shipped”.
+
+**Outreach CRM (Customers → Outreach)**
+- **Planuri automate**, fără limită de cotă: Recover abandoned carts, Recover incomplete checkouts, Go LIVE reminder, Welcome new followers, Remind price drops (tab-urile Remind to purchase și Build loyalty). Coșurile abandonate și checkout-urile incomplete sunt de pornit permanent („No end time”).
+- **Planuri one-time:** 3 pe săptămână. Se trimit către clienți sau către potențiali clienți (ex. „Potential new customers”). Folosiri: anunț de flash sale, cupoane, lansări de produse, promovare LIVE.
+- Fiecare grup poate primi mesaj o singură dată pe săptămână. Limita se resetează luni, la 00:00 PT.
+- Mesajele se pot programa doar între 05:00 și 21:00.
+
+**Affiliate outreach**
+- La target invites, Ervin recomandă loturi mari, de 10k–20k creatori, pentru că sunt mulți disponibili.
