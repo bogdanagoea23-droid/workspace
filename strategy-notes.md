@@ -154,3 +154,10 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Obiectiv (Alina):** sell-out și, ideal, profit. E prima dată când avem Santa Hats pe TikTok, deci nu există o formulă fixă; testăm. Selecția finală se face oricum din sample requests.
 - **Filtre recomandate de Aftab:** familie; creatori femei; home decor; home improvement; creatori cu conținut similar, căutați după keyword-uri.
 - **Next step:** draft de campanie (text de outreach + filtre), de finalizat a doua zi cu echipa.
+
+## 13. De făcut / reminders
+- [ ] **Mesaj către Alina: Connect Meta în Cruva.** Banner-ul Cruva arată că 3 videoclipuri au adus ~$10k în ultimele 30 de zile; Cruva le poate împinge în Meta Ads (whitelisting + plăți gestionate în Cruva).
+- [ ] Alina: acces de admin (Products + Orders) în Seller Center.
+- [ ] Alina: ce adresă sau domeniu folosim pentru email outreach din Cruva (subdomeniu separat, ex. creators.glowandgear.com, sau o adresă Titan prin SMTP).
+- [ ] Confirmare marjă la 25% comision + 5% Shop Ads (preț $19).
+- [x] Campanii Cruva Santa Hats: video (Female, home/family) + LIVE (LIVE GMV $500+, 50+ viewers). 25% + 5% Shop Ads, aprobare manuală a sample-urilor.
