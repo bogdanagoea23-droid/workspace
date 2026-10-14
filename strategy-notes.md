@@ -147,3 +147,10 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 
 **Affiliate outreach**
 - La target invites, Ervin recomandă loturi mari, de 10k–20k creatori, pentru că sunt mulți disponibili.
+
+## 12. Santa Hats: status campanie Cruva (14.10)
+- **Produs:** 4PCs Classic Cotton Cold-Resistant Santa Hats (4-pack), ref. SantaHats-4pack.
+- **Stoc:** 180 unități disponibile acum, plus capacitate pentru încă ~1.000 (Neelam).
+- **Obiectiv (Alina):** sell-out și, ideal, profit. E prima dată când avem Santa Hats pe TikTok, deci nu există o formulă fixă; testăm. Selecția finală se face oricum din sample requests.
+- **Filtre recomandate de Aftab:** familie; creatori femei; home decor; home improvement; creatori cu conținut similar, căutați după keyword-uri.
+- **Next step:** draft de campanie (text de outreach + filtre), de finalizat a doua zi cu echipa.
