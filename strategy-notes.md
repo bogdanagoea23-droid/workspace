@@ -234,5 +234,5 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Update:** și campania LIVE a fost actualizată (titlu „🔴 LIVE 15% + Free Santa Hats”, 15% + 5%, expiră 31.12.2026, exclude campania video). `[affiliate_name]` funcționează: în preview apare numele utilizatorului Cruva, iar în Cooperation Chat numele creatorului.
 - **Atenție, din Cooperation Chat:**
   - Creatorii contactați aseară au primit deja invitația și DM-ul cu **25%**.
-  - TikTok are **limite săptămânale de mesaje**. Fiecare mesaj către un creator care n-a răspuns consumă din limită (inclusiv follow-up-urile), iar unii creatori au atins limita („You can send up to 5 messages…”).
+  - **Limite outreach (corectat după Affiliate Center → Creator outreach):** la GMV-ul nostru pe 30 de zile ($41k) avem **unconnected creators nelimitat** (1.435 contactați săptămâna asta, 168 connected; reset duminica la 12 PM GMT-7). Limita reală e **per creator: maxim ~5 mesaje** către cineva care n-a răspuns. Secvența noastră (invite + DM + 2 follow-up-uri = 4) e sub limită.
   - Sunt ~1.000 de conversații „Not replied”; unii creatori au răspuns deja (ex. seashellover: „I will collaborate sample request”) și trebuie să le răspundem manual.
