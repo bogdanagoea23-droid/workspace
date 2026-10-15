@@ -225,3 +225,8 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Găsirea videoclipurilor virale:** cu tool-uri (FastMoss sau Helium 10, Alina trimite detalii în chat), nu manual.
 - Flux: fac un shortlist de videoclipuri → îl trimit Alinei → ea alege cele mai bune 1–2.
 - **Atenție:** în mesajele din TikTok Shop linkurile **nu sunt clickabile**, apar ca text simplu. Linkul trebuie să fie scurt și curat, iar mesajul să le spună să-l copieze în browser/TikTok (sau să menționăm @creatorul și o descriere scurtă a videoclipului).
+
+## 18. Santa Hats: tranziția de la 25% la 15%
+- Primele două campanii Cruva (video + LIVE) au pornit cu **25%** și au primit deja multe sample requests. Acum sunt **pe pauză**.
+- Neclar: ce se întâmplă cu creatorii care au acceptat sau au cerut sample la 25% dacă schimbăm comisionul. Documentația TikTok nu spune clar. De verificat cu suportul Cruva / TikTok.
+- Recomandare: **nu edităm campaniile vechi**. Le lăsăm pe pauză și facem **campanii noi la 15%** pentru creatorii noi (cu „Resolve only creators who haven't accepted”). Creatorii care au cerut deja sample la 25%: îi aprobăm selectiv și le respectăm 25% (diferență ~$1.90/vânzare la $19). Decizia finală cu Alina.
