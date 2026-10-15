@@ -166,3 +166,27 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
   - **Campaniile Cruva targeted (video + LIVE): 15% comision + Shop Ads 5–6% + free sample** (confirmat în call; open collab e deja setat la 12%). Rămâne de schimbat titlul invitației și textele.
   - De actualizat procentul și în textul din invite, DM și follow-up-uri (scos „25%”).
 - [x] Campanii Cruva Santa Hats: video (Female, home/family) + LIVE (LIVE GMV $500+, 50+ viewers). 25% + 5% Shop Ads, aprobare manuală a sample-urilor.
+
+## 14. Creatori vorbitori de spaniolă la Santa Hats (din discuția cu colegul)
+- Segmentul hispanic se potrivește bine la Santa Hats (seturi pentru toată familia).
+- **Primul val:** outreach larg, fără filtru de limbă, ca să ajungem la cât mai mulți creatori.
+- **Al doilea val:** campanie separată doar pentru creatorii vorbitori de spaniolă, cu mesaj în spaniolă.
+- **Tracking obligatoriu** după ce apar primele videoclipuri: ce segment și ce creator a performat (a postat? vânzări/GMV?). Scopul: să știm ce merge la produsele sezoniere și pe cine retargetăm data viitoare.
+
+## 15. Fitness, Power Twister, aparatul de ras + Higgsfield (din discuția cu colegul)
+**Produse fitness**
+- Mai puțini creatori, dar mai buni: chiar din fitness, care folosesc produsul, știu ce fac și au audiență bună.
+- Totul depinde de stoc. Colegul verifică stocul și revine cu detaliile.
+
+**Power Twister**
+- Probabil îl oprim. E „old school”, iar concurenții trec pe variante mecanice și au mai multă tracțiune (inclusiv pe Amazon). Nimeni nu are o impresie bună despre el.
+- Nu mai investim efort în outreach până la decizia finală.
+
+**Aparatul de ras: test cu conținut AI (Higgsfield)**
+- Problema: reclamele pentru aparatul de ras sunt scumpe.
+- Abonamentul Higgsfield e activ și conectat în spațiul de ChatGPT. Include câteva mii de imagini și câteva sute de videoclipuri pe lună, suficient pentru prima lună; se poate ajusta.
+- **Plan:** creăm conținut propriu pentru aparatul de ras → îl postăm → îl rulăm în GMV Max ca test.
+- **Comparație:** avem deja date din GMV Max pe videoclipurile creatorilor; comparăm videoclipurile noastre cu acestea (cost per comandă, ROAS, CTR).
+
+**Retainia**
+- Lucrează la un tool propriu de conținut, dar poate dura între 2 săptămâni și 2 luni. Nu așteptăm; folosim Higgsfield până atunci.
