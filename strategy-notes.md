@@ -157,7 +157,7 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 
 ## 13. De făcut / reminders
 - [ ] **Mesaj către Alina: Connect Meta în Cruva.** Banner-ul Cruva arată că 3 videoclipuri au adus ~$10k în ultimele 30 de zile; Cruva le poate împinge în Meta Ads (whitelisting + plăți gestionate în Cruva).
-- [ ] Alina: acces de admin (Products + Orders) în Seller Center.
+- [ ] Alina: acces de admin (Products + Orders) în Seller Center. **Update din call:** Alina a văzut că am acces doar la Affiliate și Content hub; repară ASAP.
 - [ ] Alina: email outreach din Cruva. **Planul actual Cruva nu permite conectarea emailurilor** („Your current plan does not support linking emails”), deci e nevoie de upgrade. De discutat dacă merită și ce adresă sau domeniu folosim (subdomeniu separat, ex. creators.glowandgear.com, sau o adresă Titan prin SMTP: smtp.titan.email, port 465, SSL).
 - [ ] Comision Santa Hats (decizie Alina):
   - **Open collaboration: 12%** (oricine poate promova produsul).
@@ -196,3 +196,12 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 
 **Retainia**
 - Lucrează la un tool propriu de conținut, dar poate dura între 2 săptămâni și 2 luni. Nu așteptăm; folosim Higgsfield până atunci.
+
+## 16. Postare videoclipuri pe profilul nostru de TikTok (din call)
+- **Postăm direct din Seller Center.** Opțiunea a apărut la începutul lui 2026: nu mai e nevoie de VPN, de telefon cu SIM de US sau de o persoană din US care să posteze.
+- Se pot adăuga **produsul shoppable (coșul galben)**, hashtag-uri etc.
+- Expunerea e similară cu cea de pe un cont de TikTok din US. TikTok chiar încurajează zilnic postarea de conținut din Seller Center.
+- **Acum postăm deja videoclipuri AI** pe profil.
+- Fiecare lucrează pe **propriul user account (sub-cont)**, ca la Amazon Seller Central; așa e sigur și legit.
+- Aftab face un video tutorial despre cum se postează din Seller Center.
+- Legătură cu testul Higgsfield: videoclipurile pentru aparatul de ras se postează tot de aici, apoi intră în GMV Max.
