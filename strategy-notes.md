@@ -188,5 +188,11 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Plan:** creăm conținut propriu pentru aparatul de ras → îl postăm → îl rulăm în GMV Max ca test.
 - **Comparație:** avem deja date din GMV Max pe videoclipurile creatorilor; comparăm videoclipurile noastre cu acestea (cost per comandă, ROAS, CTR).
 
+**Cum lucrăm cu Higgsfield (din call)**
+- Fiecare om din echipă lucrează în propriul spațiu de ChatGPT conectat la Higgsfield. ChatGPT ține minte tot ce discuți cu el, deci fiecare își construiește propriul istoric.
+- La call-uri comparăm cine a avut cele mai bune rezultate sau descoperiri.
+- **Focus acum: un singur produs, aparatul de ras.** Testăm întâi aici; se pot încerca și alte produse, dar fără să pierdem focusul.
+- Conexiunea Higgsfield a avut probleme, acum ar trebui să meargă. Confirmă mai târziu colegul.
+
 **Retainia**
 - Lucrează la un tool propriu de conținut, dar poate dura între 2 săptămâni și 2 luni. Nu așteptăm; folosim Higgsfield până atunci.
