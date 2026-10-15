@@ -217,3 +217,11 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - Format: mesaj scurt, făcut din template-ul Cruva, cu idei, do's & don'ts.
 - De setat **pentru campaniile noi**, inclusiv Santa Hats.
 - **Includem exemple de videoclipuri virale** ca referință (pot fi cu produsele noastre sau cu alte produse), pentru creatorii care nu știu ce tip de video să facă.
+
+**Detalii din call despre brief-ul cu exemple (B)**
+- Exemplele virale merg **doar la creatorii care primesc sample**, nu în invitație.
+- **Când se trimite:** când sample-ul apare ca **shipped** în Sample requests (sau cel târziu la „pending content”).
+- Mesajul pornește de la template-ul din Cruva, personalizat cu cerințe specifice pentru video + **maxim 2 exemple** de videoclipuri.
+- **Găsirea videoclipurilor virale:** cu tool-uri (FastMoss sau Helium 10, Alina trimite detalii în chat), nu manual.
+- Flux: fac un shortlist de videoclipuri → îl trimit Alinei → ea alege cele mai bune 1–2.
+- **Atenție:** în mesajele din TikTok Shop linkurile **nu sunt clickabile**, apar ca text simplu. Linkul trebuie să fie scurt și curat, iar mesajul să le spună să-l copieze în browser/TikTok (sau să menționăm @creatorul și o descriere scurtă a videoclipului).
