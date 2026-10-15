@@ -262,3 +262,4 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Email outreach către creatori:** upgrade Cruva (Scale $600/lună) vs. Klaviyo (propus de Iryna; plan gratuit 250 contacte / 500 emailuri pe lună) vs. platforme all-in-one (Saral, Sahti). Alina: emailurile trebuie trimise **din același loc unde au fost colectate**; tool-urile de email marchează listele importate ca suspecte. De reevaluat în 1–2 luni.
 - **Connect Meta în Cruva:** Alina e de acord pentru viitorul apropiat, dar întâi trebuie pregătite pagina de Facebook/Meta, postările etc.
 - **Upgrade plan Cruva:** reevaluare în 1–2 luni (Invite editing, email linking).
+- **Update:** follow-up-urile din ambele campanii (video + LIVE) au fost modificate fără procent („great commission”), ca să fie corecte și pentru creatorii de 25%, și pentru cei de 15%. Urmează: aprobare selectivă sample-uri (25%) + repornire campanii.
