@@ -236,3 +236,9 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
   - Creatorii contactați aseară au primit deja invitația și DM-ul cu **25%**.
   - **Limite outreach (corectat după Affiliate Center → Creator outreach):** la GMV-ul nostru pe 30 de zile ($41k) avem **unconnected creators nelimitat** (1.435 contactați săptămâna asta, 168 connected; reset duminica la 12 PM GMT-7). Limita reală e **per creator: maxim ~5 mesaje** către cineva care n-a răspuns. Secvența noastră (invite + DM + 2 follow-up-uri = 4) e sub limită.
   - Sunt ~1.000 de conversații „Not replied”; unii creatori au răspuns deja (ex. seashellover: „I will collaborate sample request”) și trebuie să le răspundem manual.
+- **Răspuns suport Cruva (AI agent, de confirmat cu un om):**
+  - Termenii invitației se fixează când e trimisă, dar se pot schimba ulterior prin editare.
+  - Dacă schimbi comisionul la 15%, noua rată se aplică **imediat** și creatorilor care au acceptat sau au cerut sample la 25%. Vânzările făcute între timp primesc rata activă la momentul vânzării.
+  - Invitațiile trimise la 25% și neacceptate încă rămân la 25% până rulezi o acțiune de **Invite Editing**, care le actualizează la 15%.
+  - Creatorii deja intrați în workflow nu sunt scoși; primesc mesajele actualizate (15%) la următorul pas.
+  - Editarea campaniei e ok; Invite Editing doar schimbă termenii invitațiilor existente, fără să adauge sau să scoată creatori.
