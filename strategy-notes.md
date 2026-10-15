@@ -250,3 +250,4 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Confirmare Cruva:** Invite editing nu anulează și nu resetează cererile de sample în așteptare; schimbă doar câmpurile alese (comision, expirare). Campaniile pot rămâne pe pauză cât rulează. Cât rulează editarea, celelalte automatizări din shop nu trimit nimic și repornesc singure după.
   - De verificat după rulare că cererile de sample arată 15% și că cele două campanii Santa Hats sunt tot pe pauză.
   - Status: niciun sample aprobat încă. Planul: Invite editing la 15% (+ expirare 31.12.2026) → verificare → aprobare selectivă → repornire campanii. Așteptăm OK-ul Alinei.
+- **Confirmare finală Cruva:** după Invite editing, cererile de sample în așteptare vor fi aprobate la **15%**. Campaniile puse manual pe pauză **rămân pe pauză** până le repornim noi.
