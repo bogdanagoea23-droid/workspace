@@ -159,5 +159,10 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - [ ] **Mesaj către Alina: Connect Meta în Cruva.** Banner-ul Cruva arată că 3 videoclipuri au adus ~$10k în ultimele 30 de zile; Cruva le poate împinge în Meta Ads (whitelisting + plăți gestionate în Cruva).
 - [ ] Alina: acces de admin (Products + Orders) în Seller Center.
 - [ ] Alina: email outreach din Cruva. **Planul actual Cruva nu permite conectarea emailurilor** („Your current plan does not support linking emails”), deci e nevoie de upgrade. De discutat dacă merită și ce adresă sau domeniu folosim (subdomeniu separat, ex. creators.glowandgear.com, sau o adresă Titan prin SMTP: smtp.titan.email, port 465, SSL).
-- [ ] Comision Santa Hats (decizie din call): **comision de bază 12–15%** (videoclipuri fără ads) și **Shop Ads 5%** (videoclipuri folosite în ads, care primesc mai mult trafic). De actualizat în ambele campanii: câmpul de comision + textul din invite, DM și follow-up-uri (scos „25%”).
+- [ ] Comision Santa Hats (decizie Alina):
+  - **Open collaboration: 12%** (oricine poate promova produsul).
+  - **Target collab pentru creatorii care au mai făcut videoclipuri pentru noi: 15%.**
+  - **Shop Ads: 5%** (videoclipurile folosite în reclame).
+  - Campaniile Cruva în masă (video + LIVE, creatori noi): de confirmat cu Alina; logic 12%, nu mai mult decât primesc creatorii vechi.
+  - De actualizat procentul și în textul din invite, DM și follow-up-uri (scos „25%”).
 - [x] Campanii Cruva Santa Hats: video (Female, home/family) + LIVE (LIVE GMV $500+, 50+ viewers). 25% + 5% Shop Ads, aprobare manuală a sample-urilor.
