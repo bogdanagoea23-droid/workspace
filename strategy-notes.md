@@ -257,3 +257,8 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Confirmare Aftab (13:21):** „strangers” = **open collaboration** → open collab 12%, **toate target collab-urile (inclusiv Cruva) 15%**. Campaniile Santa Hats pe 15% sunt corecte. Rămâne de decis (Alina) ce facem cu invitațiile vechi de 25%: upgrade Cruva pentru Invite editing sau le lăsăm pe 25% și aprobăm selectiv.
 - **Decizie Alina (14:04):** invitațiile vechi **rămân la 25%**; aprobăm doar cele mai bune cereri de sample și le păstrăm 25%. **Fără TC Invite Cleanup.** Creatorii noi primesc 15%. Follow-up-urile: scoatem procentul („FREE sample + great commission”), ca să fie corecte atât pentru cei de 25%, cât și pentru cei de 15%. Apoi repornim campaniile.
 - **Plan Cruva (confirmat de Alina 14:09–14:17):** suntem pe **Basic** (include Outreach, CRM, Email & Message Center pe hârtie, Sample Request Management, 5 automatizări concurente), dar linking-ul de emailuri și TC Invite Cleanup nu merg. **Scale = $600/lună** — nejustificat deocamdată. Decizie: **opțiunea 2** acum; reevaluăm upgrade-ul în 1–2 luni.
+
+## 19. Open ToDos / To Decide (lista cerută de Alina)
+- **Email outreach către creatori:** upgrade Cruva (Scale $600/lună) vs. Klaviyo (propus de Iryna; plan gratuit 250 contacte / 500 emailuri pe lună) vs. platforme all-in-one (Saral, Sahti). Alina: emailurile trebuie trimise **din același loc unde au fost colectate**; tool-urile de email marchează listele importate ca suspecte. De reevaluat în 1–2 luni.
+- **Connect Meta în Cruva:** Alina e de acord pentru viitorul apropiat, dar întâi trebuie pregătite pagina de Facebook/Meta, postările etc.
+- **Upgrade plan Cruva:** reevaluare în 1–2 luni (Invite editing, email linking).
