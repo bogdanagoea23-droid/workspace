@@ -247,3 +247,6 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
   - Invitațiile vechi au expirare de 6 săptămâni; la editare se poate muta și expirarea pe 31.12.2026.
   - Alternativa „Invite removal” șterge doar invitațiile neacceptate (cei care au acceptat rămân pe 25%).
   - Decizia 15% pentru toți vs. 25% pentru cei care au cerut deja sample: **Alina**.
+- **Confirmare Cruva:** Invite editing nu anulează și nu resetează cererile de sample în așteptare; schimbă doar câmpurile alese (comision, expirare). Campaniile pot rămâne pe pauză cât rulează. Cât rulează editarea, celelalte automatizări din shop nu trimit nimic și repornesc singure după.
+  - De verificat după rulare că cererile de sample arată 15% și că cele două campanii Santa Hats sunt tot pe pauză.
+  - Status: niciun sample aprobat încă. Planul: Invite editing la 15% (+ expirare 31.12.2026) → verificare → aprobare selectivă → repornire campanii. Așteptăm OK-ul Alinei.
