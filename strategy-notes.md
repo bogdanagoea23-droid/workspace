@@ -205,3 +205,15 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - Fiecare lucrează pe **propriul user account (sub-cont)**, ca la Amazon Seller Central; așa e sigur și legit.
 - Aftab face un video tutorial despre cum se postează din Seller Center.
 - Legătură cu testul Higgsfield: videoclipurile pentru aparatul de ras se postează tot de aici, apoi intră în GMV Max.
+
+## 17. Brief-uri pentru creatori (din call)
+**A. Test cu comunitatea Alinei (săptămâna viitoare; Alina revine cu detalii)**
+- Outreach către comunitatea ei, cu produse Glow&Gear, ca să vedem ce tipuri de videoclipuri primim.
+- Instrucțiunile trebuie să fie **foarte simple**, pentru **oameni obișnuiți care abia încep**, nu pentru creatori de TikTok cu experiență.
+- Scop: o parte din videoclipuri le folosim pe profilul nostru, ca să păstrăm un mix natural și sigur de **conținut AI + videoclipuri reale**.
+
+**B. Brief în Cruva pentru creatorii care primesc sample**
+- În Cruva se poate trimite un mesaj separat, după invitația TC și primul mesaj, **creatorilor cărora le trimitem sample-uri**.
+- Format: mesaj scurt, făcut din template-ul Cruva, cu idei, do's & don'ts.
+- De setat **pentru campaniile noi**, inclusiv Santa Hats.
+- **Includem exemple de videoclipuri virale** ca referință (pot fi cu produsele noastre sau cu alte produse), pentru creatorii care nu știu ce tip de video să facă.
