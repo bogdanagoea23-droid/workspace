@@ -24,7 +24,11 @@
 ## 2. Istoric profesional (versiune confirmată)
 
 ### Influencer Marketing Manager
-**Top Dog (Mess Less)** | Statele Unite, Remote | **Octombrie 2024 – August 2026**
+**Mess Less** | Statele Unite, Remote | **Octombrie 2024 – August 2026**
+
+> **Numele care se foloseste este MESS LESS, nu Top Dog.** Top Dog este entitatea
+> juridica (domeniul jointopdog.com, Tomer Rabinovich CEO), dar brandul si numele
+> care se comunica in CV, aplicari si propuneri este **Mess Less**.
 
 *Rol încheiat recent. Confirmat de Bogdana pe 16 septembrie 2026.*
 
@@ -176,8 +180,8 @@ Continuous improvement philosophies · Communication · Research · Social media
 
 | Rezultat | Context |
 |---|---|
-| TikTok Shop lansat de la zero și scalat | Top Dog (Mess Less) |
-| Creștere lună-de-lună constantă în vizibilitate și venituri | Top Dog (Mess Less) |
+| TikTok Shop lansat de la zero și scalat | Mess Less |
+| Creștere lună-de-lună constantă în vizibilitate și venituri | Mess Less |
 | +30% engagement prin campanii TikTok Shop | SARAL |
 | +25% engagement prin selecție strategică de influenceri | SARAL |
 | +20% îmbunătățire a rezultatelor prin analiză de performanță | SARAL |
@@ -222,7 +226,7 @@ Bogdana Goea
 Email: bogdana.goea23@gmail.com
 Bucharest, Romania
 
-**De actualizat:** acum că rolul la Top Dog (Mess Less) s-a încheiat, formularea poate rămâne aceeași (brandurile sunt listate ca experiență, nu ca job curent), dar dacă vrei să comunici disponibilitate imediată se poate adăuga o propoziție despre asta.
+**De actualizat:** acum că rolul la Mess Less s-a încheiat, formularea poate rămâne aceeași (brandurile sunt listate ca experiență, nu ca job curent), dar dacă vrei să comunici disponibilitate imediată se poate adăuga o propoziție despre asta.
 
 ---
 
