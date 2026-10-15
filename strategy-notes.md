@@ -263,3 +263,18 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - **Connect Meta în Cruva:** Alina e de acord pentru viitorul apropiat, dar întâi trebuie pregătite pagina de Facebook/Meta, postările etc.
 - **Upgrade plan Cruva:** reevaluare în 1–2 luni (Invite editing, email linking).
 - **Update:** follow-up-urile din ambele campanii (video + LIVE) au fost modificate fără procent („great commission”), ca să fie corecte și pentru creatorii de 25%, și pentru cei de 15%. Urmează: aprobare selectivă sample-uri (25%) + repornire campanii.
+
+## 20. Criterii aprobare sample-uri (recomandare, de confirmat cu Alina)
+Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
+
+| Coloană | Minim (aprobă) | Zonă gri | Respinge |
+|---|---|---|---|
+| Sample score | 80+ | 75–79 | sub 75 |
+| Fulfillment | 85%+ | 80–84% | sub 80% |
+| Average views per video | 200+ | 100–199 | sub 100 |
+| 30-day GMV | fără minim; bonus de la $1.000+ | – | – |
+| Items sold | fără minim; bonus de la 50+ | – | – |
+
+- Obligatorii: Fulfillment 85%+ și Views 200+. Plus nișă potrivită (familie, casă, decor, modă, femei 25–44). Fără conturi de giveaway sau nișe fără legătură.
+- Zona gri: aprob doar dacă celelalte cifre sunt foarte bune și mai am locuri.
+- Total de aprobat în primul val: ~20–30 (stoc 270).
