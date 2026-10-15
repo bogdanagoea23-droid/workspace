@@ -231,3 +231,8 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
 - Neclar: ce se întâmplă cu creatorii care au acceptat sau au cerut sample la 25% dacă schimbăm comisionul. Documentația TikTok nu spune clar. De verificat cu suportul Cruva / TikTok.
 - Recomandare: **nu edităm campaniile vechi**. Le lăsăm pe pauză și facem **campanii noi la 15%** pentru creatorii noi (cu „Resolve only creators who haven't accepted”). Creatorii care au cerut deja sample la 25%: îi aprobăm selectiv și le respectăm 25% (diferență ~$1.90/vânzare la $19). Decizia finală cu Alina.
 - **Update:** campania video a fost editată direct (nu s-a creat una nouă), conform deciziei din call: titlu nou, 15% + Shop Ads 5%, expirare 31.12.2026, toate mesajele (invite, DM, 2 follow-up-uri la 3 și 7 zile) actualizate la 15%. Urmează la fel și campania LIVE. Cererile de sample primite deja rămân la 25%.
+- **Update:** și campania LIVE a fost actualizată (titlu „🔴 LIVE 15% + Free Santa Hats”, 15% + 5%, expiră 31.12.2026, exclude campania video). `[affiliate_name]` funcționează: în preview apare numele utilizatorului Cruva, iar în Cooperation Chat numele creatorului.
+- **Atenție, din Cooperation Chat:**
+  - Creatorii contactați aseară au primit deja invitația și DM-ul cu **25%**.
+  - TikTok are **limite săptămânale de mesaje**. Fiecare mesaj către un creator care n-a răspuns consumă din limită (inclusiv follow-up-urile), iar unii creatori au atins limita („You can send up to 5 messages…”).
+  - Sunt ~1.000 de conversații „Not replied”; unii creatori au răspuns deja (ex. seashellover: „I will collaborate sample request”) și trebuie să le răspundem manual.
