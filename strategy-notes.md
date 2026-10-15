@@ -163,6 +163,6 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
   - **Open collaboration: 12%** (oricine poate promova produsul).
   - **Target collab pentru creatorii care au mai făcut videoclipuri pentru noi: 15%.**
   - **Shop Ads: 5%** (videoclipurile folosite în reclame).
-  - Campaniile Cruva în masă (video + LIVE, creatori noi): de confirmat cu Alina; logic 12%, nu mai mult decât primesc creatorii vechi.
+  - **Campaniile Cruva targeted (video + LIVE): 15% comision + Shop Ads 5–6% + free sample** (confirmat în call; open collab e deja setat la 12%). Rămâne de schimbat titlul invitației și textele.
   - De actualizat procentul și în textul din invite, DM și follow-up-uri (scos „25%”).
 - [x] Campanii Cruva Santa Hats: video (Female, home/family) + LIVE (LIVE GMV $500+, 50+ viewers). 25% + 5% Shop Ads, aprobare manuală a sample-urilor.
