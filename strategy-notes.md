@@ -242,3 +242,8 @@ Dacă produsul nu poate fi reactivat, workaround-ul e un SKU nou:
   - Invitațiile trimise la 25% și neacceptate încă rămân la 25% până rulezi o acțiune de **Invite Editing**, care le actualizează la 15%.
   - Creatorii deja intrați în workflow nu sunt scoși; primesc mesajele actualizate (15%) la următorul pas.
   - Editarea campaniei e ok; Invite Editing doar schimbă termenii invitațiilor existente, fără să adauge sau să scoată creatori.
+- **Invite Editing (Cruva):** Outreach → Automations → **TC Invite Cleanup** → Run → **Invite editing**. Salvarea campaniei editate **nu** modifică invitațiile deja trimise; trebuie rulat separat. Noua rată se aplică imediat creatorilor care au acceptat, fără perioadă de așteptare. Nu e clar dacă TikTok îi notifică pe creatori.
+  - Filtru recomandat: Product = Santa Hat Set + Commission rate 25–25%, ca să prindă doar invitațiile vechi de 25%.
+  - Invitațiile vechi au expirare de 6 săptămâni; la editare se poate muta și expirarea pe 31.12.2026.
+  - Alternativa „Invite removal” șterge doar invitațiile neacceptate (cei care au acceptat rămân pe 25%).
+  - Decizia 15% pentru toți vs. 25% pentru cei care au cerut deja sample: **Alina**.
