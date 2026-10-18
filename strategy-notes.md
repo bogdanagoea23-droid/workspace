@@ -278,3 +278,18 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Obligatorii: Fulfillment 85%+ și Views 200+. Plus nișă potrivită (familie, casă, decor, modă, femei 25–44). Fără conturi de giveaway sau nișe fără legătură.
 - Zona gri: aprob doar dacă celelalte cifre sunt foarte bune și mai am locuri.
 - Total de aprobat în primul val: ~20–30 (stoc 270).
+
+## 21. Arbon tool bag: campanie Cruva de pregătit (cerere Alina, vineri 16.10)
+- Test pentru **Arbon tool bag**: potențial mare pe TikTok, încă neexploatat de noi.
+- Campanie de outreach **doar pentru acest produs**, cu **doar cei mai buni creatori** („best of best”).
+- **Produs scump → foarte puține sample-uri.**
+- Unghi Q4: **cadou** (pentru tați, soți, meseriași, DIY); oamenii îl cumpără ca gift de sărbători.
+- Bogdana pregătește mesajul de outreach + follow-up-uri și lasă campania **ca draft în Cruva**.
+- Iryna se uită la imagini și listing.
+- Context din doc-ul Retainia: produse similare (tool bags) vând bine la ~$15–20; peste ~$30 se vinde greu pe TikTok; creatori relevanți: construcții / DIY / hispanici.
+- Comision: 15% (target collab nou), Shop Ads 5% — de confirmat dacă Alina vrea altceva pentru un produs scump.
+
+## 22. Sport items: decizii stoc (Alina, 16.10)
+- Trimitem în FBT: 200 unități pe fiecare din cele 3 Power Twisters, 200 slant board, 125 barbell.
+- Restul: sell-out pe Amazon.
+- Wrist: Aftab decide dacă trimite (doar 240 rămase); Alina nu ar recomanda altă comandă.
