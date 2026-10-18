@@ -293,3 +293,4 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Trimitem în FBT: 200 unități pe fiecare din cele 3 Power Twisters, 200 slant board, 125 barbell.
 - Restul: sell-out pe Amazon.
 - Wrist: Aftab decide dacă trimite (doar 240 rămase); Alina nu ar recomanda altă comandă.
+- **Status Arbon (19.10):** campania Cruva e configurată (filtre: Tools & Hardware / Home Improvement / Automotive, 10K+ followers, GMV $1K+, 1K+ views → ~1.730 creatori; 15% + Shop Ads 5%; expiră 31.12.2026; aprobare manuală; DM + follow-up la 3 și 7 zile). Lăsată ca **draft** (Save, nu Finish) până la OK-ul Alinei. Produs: $49,39, stoc 179, 7.348 views dar doar 2 vânzări → listing-ul trebuie îmbunătățit (Iryna).
