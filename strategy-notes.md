@@ -295,3 +295,10 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Wrist: Aftab decide dacă trimite (doar 240 rămase); Alina nu ar recomanda altă comandă.
 - **Status Arbon (19.10):** campania Cruva e configurată (filtre: Tools & Hardware / Home Improvement / Automotive, 10K+ followers, GMV $1K+, 1K+ views → ~1.730 creatori; 15% + Shop Ads 5%; expiră 31.12.2026; aprobare manuală; DM + follow-up la 3 și 7 zile). Lăsată ca **draft** (Save, nu Finish) până la OK-ul Alinei. Produs: $49,39, stoc 179, 7.348 views dar doar 2 vânzări → listing-ul trebuie îmbunătățit (Iryna).
 - **Status 19.10, 02:00:** ARBON Tool Bag = **Paused** (0 trimise, 1.445 creatori rămași; se pornește doar manual cu ▶️ după OK-ul Alinei). Santa hats live content = **Completed** (7.284 trimise, 106 sample requests). Santa hats video = **Active** (10.744 trimise, 25.134 rămași, 198 sample requests). Total ~304 cereri de sample față de stoc 270 → aprobare foarte selectivă.
+
+## 23. Produse MyMed „Product Unavailable” în open collab (20.10)
+- Motiv confirmat în Seller Center → Products → Needs attention: **Frozen by platform**, clasificate ca „Medicines, Medical Devices and Medicinal Supplements” (Prohibited Products – Medical Devices). Essentials Kit = Rejected.
+- Afectate: At-Home Dermaplaning Kit for Body, Dermaplaning Razors 100-Pack, Essentials Kit, #10 Razors 15 + Handle, #11 Razors Pack of 20, Stainless Steel 10R 100 Blades, #11 Razors 15 + Handle etc.
+- Seller Assistant: pentru 100-Pack s-au făcut deja 2 apeluri, ambele respinse → rămâne frozen permanent.
+- Echipa știe deja de situație („nimic nou”). Workaround cunoscut: listing nou (fără termeni medicali) + mutare inventar prin FBT Goods (secțiunea 9). Cruva marchează aceste produse ca „Bad Product”.
+- Implicație: nu le includem în campanii de outreach și nu răspundem creatorilor cu ele până nu există listing nou activ.
