@@ -41,8 +41,13 @@ Deocamdata Connor plateste mai bine pe ora.
 
 | Client | Suma | Prima factura | Forma |
 |---|---|---|---|
-| Connor | 1.500 EUR/luna (tinta: 2.500) | iulie 2026 | PFA |
+| Connor (NutriPaw) | 1.500 EUR/luna (tinta: 2.500) | iulie 2026 | PFA |
 | Alina / AZ Rank | 1.100 EUR/luna | noiembrie 2026 | PFA, primele 3 luni |
+
+**Connor = NutriPaw.** Brandul pentru care lucreaza este NutriPaw. Connor este
+persoana de contact / clientul. Acolo se face si munca de TikTok Shop pentru care
+urmeaza cererea de 1.000 EUR in plus, si tot de acolo vin ambasadorii carora li se
+raspunde pe mail (Brittany, Jen, Demi, Jamie, Tim).
 
 ### Negocierea cu Alina (incheiata 1 oct 2026)
 - Oferta ei initiala: **900 USD = 795 EUR**
