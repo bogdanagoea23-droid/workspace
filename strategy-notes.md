@@ -302,3 +302,10 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Seller Assistant: pentru 100-Pack s-au făcut deja 2 apeluri, ambele respinse → rămâne frozen permanent.
 - Echipa știe deja de situație („nimic nou”). Workaround cunoscut: listing nou (fără termeni medicali) + mutare inventar prin FBT Goods (secțiunea 9). Cruva marchează aceste produse ca „Bad Product”.
 - Implicație: nu le includem în campanii de outreach și nu răspundem creatorilor cu ele până nu există listing nou activ.
+
+## 24. Automatizare Cruva: content brief Santa Hats (21.10)
+- Tip: Outreach Audience = **CRM Creators**, Message Sequence = **DM**, program 8 AM–10 PM New York.
+- Condiții: Sample Status = Shipped + Delivered (+ Pending/Approved dacă există), NU Posted; produs/campanie = doar Santa Hats.
+- Confirmat de Cruva: grupul e dinamic (creatorii aprobați ulterior intră automat) și fiecare creator primește mesajul **o singură dată**, chiar dacă trece din Shipped în Delivered.
+- Brief: idei video + LIVE, do's & don'ts, 1–2 linkuri exemplu (non-clickable, cu „copy the link”), cerere de ad code după postare.
+- Status campanii la 21.10: Santa hats (video) = Paused, 17.746 trimise, 398 sample requests; Santa hats LIVE = Paused, 7.284 trimise, 156 sample requests.
