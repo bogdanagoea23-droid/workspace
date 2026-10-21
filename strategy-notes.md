@@ -309,3 +309,16 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Confirmat de Cruva: grupul e dinamic (creatorii aprobați ulterior intră automat) și fiecare creator primește mesajul **o singură dată**, chiar dacă trece din Shipped în Delivered.
 - Brief: idei video + LIVE, do's & don'ts, 1–2 linkuri exemplu (non-clickable, cu „copy the link”), cerere de ad code după postare.
 - Status campanii la 21.10: Santa hats (video) = Paused, 17.746 trimise, 398 sample requests; Santa hats LIVE = Paused, 7.284 trimise, 156 sample requests.
+
+## 25. ARBON: propunerea Irynei (21.10), de confirmat cu Alina
+- 3 categorii de creatori: (1) cei care promovează concurenți (VETO Pro Pac / VEVOR / GARVEE); (2) cei care vând scule/echipament la preț similar (~$37–62, ARBON = $49,39); (3) „dark horses”: creatori sub top, cu GMV +50% WoW.
+- Filtre: US + Tools/Hardware + GMV 30 zile $10K+ (eu pusesem $1K+) + postare activă; verificare manuală a prețului produselor vândute; 2+ videoclipuri care vând.
+- Sample-uri: aprobare strictă, fără auto-approve.
+- Comision propus: 12% de bază → 17% pentru cei care dovedesc vânzări (în Cruva e setat 15%). Așteptăm confirmarea Alinei.
+- Referințe: @xavierhvac, @joshuadent_ (HVAC), @karlythesparky (format creativ). Conținut de tip „loadout / everything I carry for a service call / my daily setup”.
+- Helium 10: plângerile din review-urile Amazon ale concurenților → incluse în brief, ca ARBON să le rezolve pe cameră.
+
+## 26. Creator Brief Santa Hats (21.10)
+- Creat în Affiliate CRM → Creator Briefs (Static). Secțiunea Videos e goală până primim acces la Kalodata (cerut pe grup).
+- Hook-uri, guidelines și text box completate. Produsul are 1 SKU; mărimile adult/copil NEconfirmate → folosim doar „for adults, kids & friends” (din titlu), fără „large and small sizes”.
+- Automatizare CRM DM: Sample Status = Shipped + Content Pending, Sampled Products = Only Santa Hats (144 creatori).
