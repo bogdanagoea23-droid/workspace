@@ -333,3 +333,4 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 ## 28. Santa Hats Creator Brief – QR code in DM
 - Linkul Cruva al briefului nu e clickable in chatul TikTok, asa ca s-a facut un QR code (bitly) catre brief, pus intr-o imagine "Santa Hat Creator Guide" cu pasii de deschidere (screenshot -> Photos/Gallery press & hold -> fallback Google Lens).
 - Mesajul DM contine "essentials" (hats in primele 3 sec, adult + kids impreuna, close-up velvet, family reveal / try-on / before-after, hook "4 Santa hats, 1 set—the whole family matches!", atasare produs) + trimitere la imaginea cu QR in loc de screenshotul briefului.
+- 23.10 (~02:30 RO): automatizarea CRM DM "Santa Hats - Content Brief" a fost pornita (147 creatori la start; grup dinamic Shipped + Content Pending, Only Santa Hats). Mesaj text + imagine QR (cruva.com/fw?id=nnwfmw). De verificat Activity Logs.
