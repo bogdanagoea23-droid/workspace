@@ -323,3 +323,9 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Hook-uri, guidelines și text box completate. Produsul are 1 SKU; mărimile adult/copil NEconfirmate → folosim doar „for adults, kids & friends” (din titlu), fără „large and small sizes”.
 - Automatizare CRM DM: Sample Status = Shipped + Content Pending, Sampled Products = Only Santa Hats (144 creatori).
 - **Decizie Alina (21.10, 18:03):** ARBON pe **12%** comision (produs scump). Alina verifică prețul pe TikTok Shop; pe Amazon l-au crescut la $58,85 (pe TTS era $49,39). De actualizat în campanie: comision 15 → 12 în câmp, titlu și mesaje. Campania rămâne pe pauză până la OK.
+
+## 27. Ad codes primite de la creatori (pentru Alina/Aftab – GMV Max / Spark Ads)
+- theglowupgodmother (Susan, esteticiana 50+, 14R Dermaplane Razors 20-pack):
+  - Tutorial dermaplaning: `#dfM30CoHAmOhh0bGVNJJhTeb2YgkGNE+0IGPC3ba9W5SI9kGpeoZdlZxq/7JXKw=`
+  - Al doilea video shoppable: `#z5z7mEA6NsR3udlkhrFfQggWFWXVZG/fd55CQE1fC8ujHJ5H7nGFi49+LI97uPE=`
+- De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
