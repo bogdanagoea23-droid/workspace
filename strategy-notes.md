@@ -329,3 +329,7 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - Tutorial dermaplaning: `#dfM30CoHAmOhh0bGVNJJhTeb2YgkGNE+0IGPC3ba9W5SI9kGpeoZdlZxq/7JXKw=`
   - Al doilea video shoppable: `#z5z7mEA6NsR3udlkhrFfQggWFWXVZG/fd55CQE1fC8ujHJ5H7nGFi49+LI97uPE=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
+
+## 28. Santa Hats Creator Brief – QR code in DM
+- Linkul Cruva al briefului nu e clickable in chatul TikTok, asa ca s-a facut un QR code (bitly) catre brief, pus intr-o imagine "Santa Hat Creator Guide" cu pasii de deschidere (screenshot -> Photos/Gallery press & hold -> fallback Google Lens).
+- Mesajul DM contine "essentials" (hats in primele 3 sec, adult + kids impreuna, close-up velvet, family reveal / try-on / before-after, hook "4 Santa hats, 1 set—the whole family matches!", atasare produs) + trimitere la imaginea cu QR in loc de screenshotul briefului.
