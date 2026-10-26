@@ -328,6 +328,7 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - theglowupgodmother (Susan, esteticiana 50+, 14R Dermaplane Razors 20-pack):
   - Tutorial dermaplaning: `#dfM30CoHAmOhh0bGVNJJhTeb2YgkGNE+0IGPC3ba9W5SI9kGpeoZdlZxq/7JXKw=`
   - Al doilea video shoppable: `#z5z7mEA6NsR3udlkhrFfQggWFWXVZG/fd55CQE1fC8ujHJ5H7nGFi49+LI97uPE=`
+- zunivarela03 (Zuni, Santa Hats LIVE 25%, video deja cu 1 vanzare): `#77IgxqD5eOX7bHw093UIED9kAKsPPHW7OxQhsBi1DAgpEAL8Kcy0Rh3qa4sVGss=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
