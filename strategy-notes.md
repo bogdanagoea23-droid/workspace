@@ -335,3 +335,10 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Linkul Cruva al briefului nu e clickable in chatul TikTok, asa ca s-a facut un QR code (bitly) catre brief, pus intr-o imagine "Santa Hat Creator Guide" cu pasii de deschidere (screenshot -> Photos/Gallery press & hold -> fallback Google Lens).
 - Mesajul DM contine "essentials" (hats in primele 3 sec, adult + kids impreuna, close-up velvet, family reveal / try-on / before-after, hook "4 Santa hats, 1 set—the whole family matches!", atasare produs) + trimitere la imaginea cu QR in loc de screenshotul briefului.
 - 23.10 (~02:30 RO): automatizarea CRM DM "Santa Hats - Content Brief" a fost pornita (147 creatori la start; grup dinamic Shipped + Content Pending, Only Santa Hats). Mesaj text + imagine QR (cruva.com/fw?id=nnwfmw). De verificat Activity Logs.
+
+## 29. Campanii noi Cruva (27.10) – duplicare "14R Dermaplane Scalpel 30%"
+- Se face cate o campanie separata pentru Shoppable Video si pentru LIVE. Comision 15% + Shop Ads 5%, aprobare manuala, "Don't resolve conflicts", expira in 6 saptamani.
+- Filtre video: Beauty & Personal Care, 5K+ followers, 30d GMV $10K+, 30d shoppable videos 10+, avg views 300+, post rate 50%+, Fast Growing = Any, US. Filtre LIVE: in loc de video, LIVE GMV $1K+ si avg LIVE viewers 50+.
+- Fara termeni medicali in mesaje (scalpel/professional).
+- Stoc in Seller Center la 27.10: 20-Pack Razors 2.039 (3.439 vandute); Razor Kit 14R15 195; 2-in-1 Razor 182; BladeWipe 150; Dermaplaning Oil 118 (desi creatorilor li s-a spus out of stock); Holiday Christmas Dermaplaning Gift Set 118 ($30,99, 0 vandute); Single-Use Wipes 35; Prep Oil Wipes 3; Complete Routine 3; Duo 0; DermaTwist Gel 0; Santa Hats 1.006; Power Twister 676; ARBON 179.
+- Prioritate campanii: (1) 20-Pack Razors video + LIVE; (2) Holiday Gift Set video + LIVE; (3) eventual 2-in-1 Razor / Razor Kit / Oil / BladeWipe ca add-on. Fara campanii pentru produse cu stoc sub ~50.
