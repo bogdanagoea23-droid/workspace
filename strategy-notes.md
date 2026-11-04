@@ -338,6 +338,10 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - laurita_conesa (Laurita, Santa Hats LIVE 15%, 2 vanzari): ad code `#Qi+7r0Mm69ywucfGuEzifK44h3Chf7GG+KKtmyrxwiJHnelxJjA27WlGN6n2ei0=`
 - jeygoshop (Jeygo Rubio Shop, Santa Hats LIVE 15%): https://www.tiktok.com/t/ZPLUn443P/ – ad code `#rp8Wtgs88dLQJQ9fxO9O5jHxm6ouYwt9xpj+LAZGhlW0GaU6WAVNLqUlRxVWoBQ=`
 - franciaberlus249 (Francia Berlus, Santa Hats LIVE 15%, 2 vanzari): ad code `#JwVAludd6BTrLWo+gcHtx+6oca+P1Kov9FYMCmVBB5RQPEurihxm4TWxcSIPZms=`
+- liszandramorales (La Esquinita de Liz, Santa Hats LIVE 15%, 3 video, 2 vanzari):
+  - `#rNy8aBeX2D9bo/L71mN7P0H2Qe+PtucgrVc7J3D15iq4QQa0XMtOfRbCSWdjV6w=`
+  - `#fBaszvt/qPuvJ4UMHatBLlfD347LDl4IXv0ruNAIT4CENcopnHRsJZmYIeYpsxs=`
+  - `#+QzDn8/ZfbstQwmi+gPcKDAPpPSOmSpPpSOdB/bLeMBTd1MoY9/IUv5Y2JkwaHo=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
