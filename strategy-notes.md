@@ -333,12 +333,12 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - Ad code 1: `#RCIO5oVr89xMetZ6Sdv05nBskfOU+x1rhoi+II97Ly7BOGhgEIg/lMTy+FprlBM=`
   - Ad code 2: `#iiDkg1K1iI57d5e2oPD8mfS7KBzKJY93+yyNrotlgyAMYWIaTLDIbvfoiXylpi0=`
 - pink.smoke1 (Bonita, Santa Hats LIVE 15%): video https://www.tiktok.com/t/ZTfnnRonB/ – ad code `#LW5A0yCoelIyouKkAMID9b1DUjP/xr0T5jLpXsnwd+tp0S1+iU24HrkmZmR3nEc=`
-- lauriereid633 (Laurie, Santa Hats 15%, video cu nepotii, 2 vanzari): https://www.tiktok.com/t/ZPLD5Fuwm/ – ad code `#tPwiA0WUKSSV6hDh4d+7BvEe5P7RqfzGQv6CodeDhGXX+JXla8kfRaLJvkDr5nA=`
+- lauriereid633 (Laurie, Santa Hats 15%, video cu nepotii): https://www.tiktok.com/t/ZPLD5Fuwm/ – ad code `#tPwiA0WUKSSV6hDh4d+7BvEe5P7RqfzGQv6CodeDhGXX+JXla8kfRaLJvkDr5nA=`
 - nahomyhgutierrez (Nahomy y Brayan, Santa Hats Video 25%): ad code `#hhNWgd/0VLAd92zWWNRW/VOJ/eYTral4VwDnuk2EK85jNpJapwneTq62KpuUi08=`
-- laurita_conesa (Laurita, Santa Hats LIVE 15%, 2 vanzari): ad code `#Qi+7r0Mm69ywucfGuEzifK44h3Chf7GG+KKtmyrxwiJHnelxJjA27WlGN6n2ei0=`
+- laurita_conesa (Laurita, Santa Hats LIVE 15%): ad code `#Qi+7r0Mm69ywucfGuEzifK44h3Chf7GG+KKtmyrxwiJHnelxJjA27WlGN6n2ei0=`
 - jeygoshop (Jeygo Rubio Shop, Santa Hats LIVE 15%): https://www.tiktok.com/t/ZPLUn443P/ – ad code `#rp8Wtgs88dLQJQ9fxO9O5jHxm6ouYwt9xpj+LAZGhlW0GaU6WAVNLqUlRxVWoBQ=`
-- franciaberlus249 (Francia Berlus, Santa Hats LIVE 15%, 2 vanzari): ad code `#JwVAludd6BTrLWo+gcHtx+6oca+P1Kov9FYMCmVBB5RQPEurihxm4TWxcSIPZms=`
-- liszandramorales (La Esquinita de Liz, Santa Hats LIVE 15%, 3 video, 2 vanzari):
+- franciaberlus249 (Francia Berlus, Santa Hats LIVE 15%): ad code `#JwVAludd6BTrLWo+gcHtx+6oca+P1Kov9FYMCmVBB5RQPEurihxm4TWxcSIPZms=`
+- liszandramorales (La Esquinita de Liz, Santa Hats LIVE 15%, 3 video):
   - `#rNy8aBeX2D9bo/L71mN7P0H2Qe+PtucgrVc7J3D15iq4QQa0XMtOfRbCSWdjV6w=`
   - `#fBaszvt/qPuvJ4UMHatBLlfD347LDl4IXv0ruNAIT4CENcopnHRsJZmYIeYpsxs=`
   - `#+QzDn8/ZfbstQwmi+gPcKDAPpPSOmSpPpSOdB/bLeMBTd1MoY9/IUv5Y2JkwaHo=`
@@ -381,3 +381,4 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Target GMV propus de Iryna catre AM: noiembrie $100K, decembrie $90K (ultimele 30 zile ~ $67K, +42%). Stoc: restock in curs (Alina: prima transa acum, ~jumatate din propunere; 20-pack +4.500–5.000 propus). Prep Oil si DermaTwist Gel = 0 stoc; Complete Routine avea 2 unitati.
 - Eu: de acord; propun content pregatit din timp de creatori (inclusiv ARBON flash sale) pentru GMV Max inainte/in timpul BF, si campanii Cruva pe produsele hero cu comision BF mai mare.
 - 04.11: Bogdana NU vrea sa modifice automatizarea CRM cu "dermaplaning tools" (creatorii primesc oricum un singur sample). Nu mai mentionam bug-ul; doar ne cerem scuze scurt in raspunsuri cand e cazul.
+- ATENTIE: "X sold" de pe cardul de produs din chatul TikTok NU inseamna vanzarile creatorului (e un indicator general al produsului). Nu le spunem creatorilor ca au facut vanzari pe baza lui.
