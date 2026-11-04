@@ -333,6 +333,7 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - Ad code 1: `#RCIO5oVr89xMetZ6Sdv05nBskfOU+x1rhoi+II97Ly7BOGhgEIg/lMTy+FprlBM=`
   - Ad code 2: `#iiDkg1K1iI57d5e2oPD8mfS7KBzKJY93+yyNrotlgyAMYWIaTLDIbvfoiXylpi0=`
 - pink.smoke1 (Bonita, Santa Hats LIVE 15%): video https://www.tiktok.com/t/ZTfnnRonB/ – ad code `#LW5A0yCoelIyouKkAMID9b1DUjP/xr0T5jLpXsnwd+tp0S1+iU24HrkmZmR3nEc=`
+- lauriereid633 (Laurie, Santa Hats 15%, video cu nepotii, 2 vanzari): https://www.tiktok.com/t/ZPLD5Fuwm/ – ad code `#tPwiA0WUKSSV6hDh4d+7BvEe5P7RqfzGQv6CodeDhGXX+JXla8kfRaLJvkDr5nA=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
