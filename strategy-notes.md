@@ -343,6 +343,7 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - `#fBaszvt/qPuvJ4UMHatBLlfD347LDl4IXv0ruNAIT4CENcopnHRsJZmYIeYpsxs=`
   - `#+QzDn8/ZfbstQwmi+gPcKDAPpPSOmSpPpSOdB/bLeMBTd1MoY9/IUv5Y2JkwaHo=`
 - liliana_lapoeta (Liliana Rodriguez, Santa Hats Video 15%): ad code `#oCTD96Qn1B1CPP4ca928MdnQ6yEEtglolo69Qk+Gox1wl1HE019JdMkupuR0gw0=`
+- trejo_love (Crystal, Santa Hats Video 15%): ad code `#4JorPRN5r76+jab48yM3nLwDh5hvZtC/hKucSGAhOKzm9D46KubN9/G4cYMXkvc=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
