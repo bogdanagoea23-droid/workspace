@@ -344,6 +344,11 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - `#+QzDn8/ZfbstQwmi+gPcKDAPpPSOmSpPpSOdB/bLeMBTd1MoY9/IUv5Y2JkwaHo=`
 - liliana_lapoeta (Liliana Rodriguez, Santa Hats Video 15%): ad code `#oCTD96Qn1B1CPP4ca928MdnQ6yEEtglolo69Qk+Gox1wl1HE019JdMkupuR0gw0=`
 - trejo_love (Crystal, Santa Hats Video 15%): ad code `#4JorPRN5r76+jab48yM3nLwDh5hvZtC/hKucSGAhOKzm9D46KubN9/G4cYMXkvc=`
+- ohheymich (Michell Herr, dermaplaning 20-Pack, BFCM push):
+  - `#3pxZQPsWpBll3JNQeuH4IVFf4rZcguh51+2VPR8p4me4aUUp6Hm7h6nZAjoa/SE=`
+  - `#ijTwYqkge9gKK2giPxMxBwcNet7sqmJGIhZ8AokVNkka4tcOcN5b5Ggd3Cwxwy0=`
+  - `#8pqp+edi3D8iHBfV3JxjeVjsJO+RUtHT0VIUDYXNn7NFBFVoSUW3PtBohJ0I/L8=`
+- southeast_reviews (Gage, ARBON): video postat, de cerut ad code; de dat rating bun.
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
