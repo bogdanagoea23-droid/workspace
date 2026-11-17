@@ -353,6 +353,11 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
   - `#ips1wqNgfsvqvb9Lnx+HxA0yhC1KxCcy7Ly6cRFhn27J9ZM9TGVn/loja691Ll0=`
   - `#XNAyBCdqTQt01iCdMFhLKvO2oquUJfUpQrfUzfvXHFG9nkCxiy4Y1uAKagWX6P4=`
 - silverstah (dermaplaning): video https://www.tiktok.com/t/ZTPU3YWTM/ si https://www.tiktok.com/t/ZPLEBWKHR/ – fara ad code inca (de cerut).
+- krazysistafinds (Krazy Sistas, dermaplaning, VIP invitata):
+  - https://www.tiktok.com/t/ZTyjHAHU3/ – `#2AAHA0EQYT2ndjD4GDfBpjwanDFcSF/UX1pELknPcXRsPWjybFuHwpKgvDryJEs=`
+  - https://www.tiktok.com/t/ZTyD8w23M/ – `#Iy3v5t2F144ZIOvaeU2NkmEqVFMsDxfxQINYuieR/i7bdgIvRkcoyLb7lkje6Ec=`
+  - https://www.tiktok.com/t/ZTymXADvd/ – `#yDl/MWiCPYhOrgubi5x1XrQEIACxpfIaVImM+Cg6RU2o5KcWaX4Lauja+wTKlmc=`
+  - https://www.tiktok.com/t/ZPLEaDsSw/ – `#VWwwq/9KAq0AkUajco7gjUu9FVaHcTjcspQyHCYLb5NIfbgWq2cnYhL+d23Pgn4=`
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
