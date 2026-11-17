@@ -352,6 +352,7 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - ucyyake (Lucy shop, Santa Hats LIVE 15%):
   - `#ips1wqNgfsvqvb9Lnx+HxA0yhC1KxCcy7Ly6cRFhn27J9ZM9TGVn/loja691Ll0=`
   - `#XNAyBCdqTQt01iCdMFhLKvO2oquUJfUpQrfUzfvXHFG9nkCxiy4Y1uAKagWX6P4=`
+- silverstah (dermaplaning): video https://www.tiktok.com/t/ZTPU3YWTM/ si https://www.tiktok.com/t/ZPLEBWKHR/ – fara ad code inca (de cerut).
 - De adaugat aici si codurile primite anterior (Inesita, Kathy, GrannyKat, tayler_engaging_bestie/LatuFamilyHomestead) daca le gasesti in chat.
 
 ## 28. Santa Hats Creator Brief – QR code in DM
