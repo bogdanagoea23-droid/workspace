@@ -439,3 +439,9 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - Best performing: ainady_yeiniel – $725.95 GMV, tot organic, 18K views → candidat bun pt boost GMV Max.
 - luzpropia27 $86.31/$71.32 organic; kathyshop15 $52.98/$7.41 organic (deja rulat pe GMV Max de Aftab); yaritapea7 $47.98/$32.99; adi61260 $40.48/$25.50.
 - Diferenta GMV vs organic GMV = vanzari din ads (GMV Max).
+
+### Observatii Iryna + Alina pe top videos (26.11)
+- Toate top 5 Santa Hats sunt de la creatori hispanici.
+- Hook care merge: creatoarea tine punga/cutia fara sa arate ce e inauntru (curiozitate) -> reveal treptat, reactie naturala, continut mai putin scriptat. De pus in brief-urile viitoare.
+- Alina: "Spanish creators are huge" -> focus pe tot ce tine de spaniola, si pe Amazon si pe TTS.
+- Bogdana: la inceput veneau multe requests de la creatori hispanici, de aceea s-a facut campania extra doar English (Santa hats live EN) pt echilibru.
