@@ -433,3 +433,9 @@ Ordinea coloanelor din TikTok Affiliate Center → Sample requests:
 - 24.11: creat Creator Brief "Glow&Gear Dermaplaning – Video Guide" (format recomandat de TikTok trimis de Aftab: hook relatabil, produs usor de folosit/rezultat pana la o saptamana, rutina pas cu pas in baie + split-screen before/after, CTA calm). Link: https://cruva.com/fw?id=p2y12m. Imagine QR: assets/dermaplaning-brief-qr.png. Produse in brief: 20-Count At-Home, Oil, Prep Oil Wipes, BladeWipe, Single-Use Wipes. Automatizare CRM DM de trimis brieful catre creatorii de dermaplaning (Shipped + Content Pending).
 - 24.11: automatizari noi: Zenooze Power Twister – Video (453 creatori), 15% Incline Board Holiday (de pornit dupa Power Twister), 15% Dermaplaning Glow Holiday (20-Count At-Home), Dermaplaning – Brief Posted Creators (brief + QR catre Posted, excl. BFCM Holiday Push / 2-in-1 / Blade Wipes 30% / VIP; ~70 creatori acum, mai multi dupa 01.12). Urmeaza: Workflows in Cruva (template-uri Creator List Outreach, Sample Follow-Through, First Sale Momentum).
 - 26.11: comenzile TTS pe "Seller Shipping" sunt mapate cu Amazon MCF (cand e OOS pe FBT, se livreaza prin MCF). In BFCM tracking-ul poate intarzia, e normal – nu trebuie semnalat pe grup.
+
+### Santa Hats – top videos (26.11)
+- Video campaign: 17,746 contactati, 676 sample requests, 128 videos. Live EN: 7,879 contactati, 327 requests, 157 videos/LIVEs. Total 285 continuturi.
+- Best performing: ainady_yeiniel – $725.95 GMV, tot organic, 18K views → candidat bun pt boost GMV Max.
+- luzpropia27 $86.31/$71.32 organic; kathyshop15 $52.98/$7.41 organic (deja rulat pe GMV Max de Aftab); yaritapea7 $47.98/$32.99; adi61260 $40.48/$25.50.
+- Diferenta GMV vs organic GMV = vanzari din ads (GMV Max).
